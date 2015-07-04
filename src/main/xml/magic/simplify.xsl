@@ -11,6 +11,23 @@
         <cardstart/>
         <xsl:text>&#xa;</xsl:text>
         <xsl:apply-templates/>
+        <xsl:if test="contains(@class,'rare')"><rarity>rare</rarity></xsl:if>
+        <xsl:if test="contains(@class,'uncommon')"><rarity>uncommon</rarity></xsl:if>
+        <xsl:if test="contains(@class,' common')"><rarity>common</rarity></xsl:if>
+        <xsl:if test="contains(@class,'basic land')"><rarity>basic land</rarity></xsl:if>
+        <xsl:text>&#xa;</xsl:text>
+    </xsl:template>
+
+    <xsl:template match="//span[contains(@class,'t-spoiler-type')]">
+        <type><xsl:value-of select="."/></type>
+        <xsl:text>&#xa;</xsl:text>
+    </xsl:template>
+
+    <xsl:template match="//html">
+        <xsl:text>&#xa;</xsl:text>
+        <foo>
+            <xsl:apply-templates/>
+        </foo>
     </xsl:template>
 
     <xsl:template match="//section[@class='t-spoiler-content']">
@@ -57,9 +74,11 @@
         <xsl:text>&#xa;</xsl:text>
     </xsl:template>
 
+
     <xsl:template match="//div[@class='t-spoiler-ability']/p"><ability><xsl:value-of select="replace(., '^\s+|\s+$', ' ')"/></ability></xsl:template>
 
     <xsl:template match="text()"/>
+
 
 
 </xsl:stylesheet>

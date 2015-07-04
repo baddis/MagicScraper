@@ -4,6 +4,8 @@
 <name>Consul's Lieutenant</name>
 <cost>WW</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Human Soldier</type>
 <ability>First strike </ability><ability>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.) </ability><ability>Whenever Consul's Lieutenant attacks, if it's renowned, other attacking creatures you control get +1/+1 until end of turn.</ability>
 <endability/>
 <stats>2/1</stats>
@@ -13,6 +15,8 @@
 <name>Consul's Lieutenant</name>
 <cost>WW</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Human Soldier</type>
 <ability>First strike </ability><ability>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.) </ability><ability>Whenever Consul's Lieutenant attacks, if it's renowned, other attacking creatures you control get +1/+1 until end of turn.</ability>
 <endability/>
 <stats>2/1</stats>
@@ -22,6 +26,8 @@
 <name>Suppression Bonds</name>
 <cost>3W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Enchantment - Aura</type>
 <ability>Enchant nonland permanent </ability><ability>Enchanted permanent can't attack or block, and its activated abilities can't be actiated.</ability>
 <endability/>
 <cardend/>
@@ -30,6 +36,8 @@
 <name>Suppression Bonds</name>
 <cost>3W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Enchantment - Aura</type>
 <ability>Enchant nonland permanent </ability><ability>Enchanted permanent can't attack or block, and its activated abilities can't be actiated.</ability>
 <endability/>
 <cardend/>
@@ -38,6 +46,8 @@
 <name>Akroan Jailer</name>
 <cost>W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Human Soldier</type>
 <ability>2W, T: Tap target creature.</ability>
 <endability/>
 <stats>1/1</stats>
@@ -47,6 +57,8 @@
 <name>Ampryn Tactician</name>
 <cost>2WW</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Human Soldier</type>
 <ability>When Ampryn Tactician enters the battlefield, creatures you control get +1/+1 until end of turn.</ability>
 <endability/>
 <stats>3/3</stats>
@@ -56,6 +68,8 @@
 <name>Ampryn Tactician</name>
 <cost>2WW</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Human Soldier</type>
 <ability>When Ampryn Tactician enters the battlefield, creatures you control get +1/+1 until end of turn.</ability>
 <endability/>
 <stats>3/3</stats>
@@ -65,6 +79,8 @@
 <name>Anointer of Champions</name>
 <cost>W</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Human Cleric</type>
 <ability>T: Target attacking creature gets +1/+1 until end of turn.</ability>
 <endability/>
 <stats>1/1</stats>
@@ -74,6 +90,8 @@
 <name>Anointer of Champions</name>
 <cost>W</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Human Cleric</type>
 <ability>T: Target attacking creature gets +1/+1 until end of turn.</ability>
 <endability/>
 <stats>1/1</stats>
@@ -83,6 +101,8 @@
 <name>Archangel of Tithes</name>
 <cost>1WWW</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Angel</type>
 <ability>Flying </ability><ability/><ability>As long as Archangel of TIthes is untapped, creatures can't attack you or a planeswalker you control unless their controller pays 1 for each of those creatures. </ability><ability/><ability>As long as Archangel of Tithes is attacking, creatures can't block unless their controller pays 1 for each of those creatures.</ability>
 <endability/>
 <stats>3/5</stats>
@@ -92,6 +112,8 @@
 <name>Auramancer</name>
 <cost>2W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Human Wizard</type>
 <ability>When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -101,6 +123,8 @@
 <name>Auramancer</name>
 <cost>2W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Human Wizard</type>
 <ability>When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -110,6 +134,8 @@
 <name>Blessed Spirits</name>
 <cost>2W</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Spirit</type>
 <ability>Flying </ability><ability/><ability>Whenever you cast an enchantment spell, put a +1/+1 counter on Blessed Spirits.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -119,6 +145,8 @@
 <name>Celestial Flare</name>
 <cost>WW</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Target player sacrifices an attacking or blocking creature.</ability>
 <endability/>
 <cardend/>
@@ -127,6 +155,8 @@
 <name>Charging Griffin</name>
 <cost>3W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Griffin</type>
 <ability>Flying </ability><ability/><ability>Whenever Charging Griffin attacks, it gets +1/+1 until end of turn.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -136,6 +166,8 @@
 <name>Cleric of the Forward Order</name>
 <cost>1W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Human Cleric</type>
 <ability>When Cleric of the Forward Order enters the battlefield, you gain 2 life for each creature you control named Cleric of the Forward Order.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -145,6 +177,8 @@
 <name>Enshrouding Mist</name>
 <cost>W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Target creature gets +1/+1 until end of turn. Prevent all damage that would be dealt to it this turn. If it's renowned, untap it.</ability>
 <endability/>
 <cardend/>
@@ -153,6 +187,8 @@
 <name>Gideon's Phalanx</name>
 <cost>5WW</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Instant</type>
 <ability>Put four 2/2 white Knight creature tokens with vigilance onto the battlefield. </ability><ability/><ability>Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, creatures you control gain indestructible until end of turn.</ability>
 <endability/>
 <cardend/>
@@ -161,6 +197,8 @@
 <name>Grasp of the Hieromancer</name>
 <cost>1W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Enchantment - Aura</type>
 <ability>Enchant creature </ability><ability>Enchanted creature gets +1/+1 and has "Whenever this creature attacks, tap target creature defending player controls."</ability>
 <endability/>
 <cardend/>
@@ -169,6 +207,8 @@
 <name>Hallowed Moonlight</name>
 <cost>1W</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Instant</type>
 <ability>Until end of turn, if a creature would enter the battlefield and it wasn't cast, exile it instead. </ability><ability/><ability>Draw a card.</ability>
 <endability/>
 <cardend/>
@@ -177,6 +217,8 @@
 <name>Heavy Infantry</name>
 <cost>4W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Human Soldier</type>
 <ability>When Heavy Infantry enters the battlefield, tap target creature an opponent controls.</ability>
 <endability/>
 <stats>3/4</stats>
@@ -186,6 +228,8 @@
 <name>Hixus, Prison Warden</name>
 <cost>3WW</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Legendary Creature - Human Soldier</type>
 <ability>Flash </ability><ability>Whenever a creature deals combat damage to you, if Hixus, Prison Warden entered the battlefield this turn, exile that creature until Hixus leaves the battlefield.</ability>
 <endability/>
 <stats>4/4</stats>
@@ -195,6 +239,8 @@
 <name>Knight of the Pilgrim's Road</name>
 <cost>2W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Human Knight</type>
 <ability>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)</ability>
 <endability/>
 <stats>3/2</stats>
@@ -204,6 +250,8 @@
 <name>Knight of the White Orchid</name>
 <cost>WW</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Human Knight</type>
 <ability>First strike </ability><ability/><ability>When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle your library.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -213,6 +261,8 @@
 <name>Knightly Valor</name>
 <cost>4W</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Enchantment - Aura</type>
 <ability>Enchant creature </ability><ability/><ability>When Knightly Valor enters the battlefield, put a 2/2 white Knight creature token with vigilance onto the battlefield. </ability><ability/><ability>Enchanted creature gets +2/+2 and has vigilance.</ability>
 <endability/>
 <cardend/>
@@ -221,6 +271,8 @@
 <name>Knightly Valor</name>
 <cost>4W</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Enchantment - Aura</type>
 <ability>Enchant creature </ability><ability/><ability>When Knightly Valor enters the battlefield, put a 2/2 white Knight creature token with vigilance onto the battlefield. </ability><ability/><ability>Enchanted creature gets +2/+2 and has vigilance.</ability>
 <endability/>
 <cardend/>
@@ -229,6 +281,8 @@
 <name>Gideon, Battle-Forged</name>
 <cost/>
 <startability/>
+<rarity>rare</rarity>
+<type>Planeswalker - Gideon</type>
 <ability>+2: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able. </ability><ability>+1: Until your next turn, target creature gains indestructible. Untap that creature. </ability><ability>0: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</ability>
 <endability/>
 <stats>3</stats>
@@ -238,6 +292,8 @@
 <name>Kytheon, Hero of Akros</name>
 <cost>W</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Legendary Creature - Human Soldier</type>
 <ability>At end of combat, if Kytheon, Hero of Akros and at least two other creatures attacked this combat, exile Kytheon, then return him to the battlefield transformed under his owner's control. </ability><ability>2W: Kytheon gains indestructible until end of turn.</ability>
 <endability/>
 <stats>2/1</stats>
@@ -247,6 +303,8 @@
 <name>Kytheon's Irregulars</name>
 <cost>2WW</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Human Soldier</type>
 <ability>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.) </ability><ability>WW: Tap target creature.</ability>
 <endability/>
 <stats>4/3</stats>
@@ -256,6 +314,8 @@
 <name>Kytheon's Tactics</name>
 <cost>1WW</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Sorcery</type>
 <ability>Creatures you control get +2/+1 until end of turn. </ability><ability>Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, those creatures also gain vigilance until end of turn. (Attacking doesn't cause them to tap.)</ability>
 <endability/>
 <cardend/>
@@ -264,6 +324,8 @@
 <name>Kytheon's Tactics</name>
 <cost>1WW</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Sorcery</type>
 <ability>Creatures you control get +2/+1 until end of turn. </ability><ability>Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, those creatures also gain vigilance until end of turn. (Attacking doesn't cause them to tap.)</ability>
 <endability/>
 <cardend/>
@@ -272,6 +334,8 @@
 <name>Mighty Leap</name>
 <cost>1W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Target creature gets +2/+2 and gains flying until end of turn.</ability>
 <endability/>
 <cardend/>
@@ -280,6 +344,8 @@
 <name>Patron of the Valiant</name>
 <cost>3WW</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Angel</type>
 <ability>Flying </ability><ability>When Patron of the Valiant enters the battlefield, put a +1/+1 counter on each creature you control with a +1/+1 counter on it.</ability>
 <endability/>
 <stats>4/4</stats>
@@ -289,6 +355,8 @@
 <name>Relic Seeker</name>
 <cost>1W</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Human Soldier</type>
 <ability>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.) </ability><ability>When Relic Seeker becomes renowned, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -298,6 +366,8 @@
 <name>Sentinel of the Eternal Watch</name>
 <cost>5W</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Giant Soldier</type>
 <ability>Vigilance (Attacking doesn't cause this creature to tap.) </ability><ability>At the beginning of combat on each opponent's turn, tap target creature that player controls.</ability>
 <endability/>
 <stats>4/6</stats>
@@ -307,6 +377,8 @@
 <name>Sigil of the Empty Throne</name>
 <cost>3WW</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Enchantment</type>
 <ability>Whenever you cast an enchantment spell, put a 4/4 white Angel creature token with flying onto the battlefield.</ability>
 <endability/>
 <cardend/>
@@ -315,6 +387,8 @@
 <name>Sigil of the Empty Throne</name>
 <cost>3WW</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Enchantment</type>
 <ability>Whenever you cast an enchantment spell, put a 4/4 white Angel creature token with flying onto the battlefield.</ability>
 <endability/>
 <cardend/>
@@ -323,6 +397,8 @@
 <name>Stalwart Aven</name>
 <cost>2W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Bird Soldier</type>
 <ability>Flying </ability><ability/><ability>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)</ability>
 <endability/>
 <stats>1/3</stats>
@@ -332,6 +408,8 @@
 <name>Stalwart Aven</name>
 <cost>2W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Bird Soldier</type>
 <ability>Flying </ability><ability/><ability>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)</ability>
 <endability/>
 <stats>1/3</stats>
@@ -341,6 +419,8 @@
 <name>Starfield of Nyx</name>
 <cost>4W</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Enchantment</type>
 <ability>At the beginning of your upkeep, you may return target enchantment card from your graveyard to the battlefield. </ability><ability>As long as you control five or more enchantments, each other non-Aura enchantment you control is a creature in addition to its other types and has base power and base toughness each equal to its converted mana cost.</ability>
 <endability/>
 <cardend/>
@@ -349,6 +429,8 @@
 <name>Topan Freeblade</name>
 <cost>1W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Human Soldier</type>
 <ability>Vigilance </ability><ability/><ability>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)</ability>
 <endability/>
 <stats>2/2</stats>
@@ -358,6 +440,8 @@
 <name>Totem-Guide Hartebeest</name>
 <cost>4W</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Antelope</type>
 <ability>When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.</ability>
 <endability/>
 <stats>2/5</stats>
@@ -367,6 +451,8 @@
 <name>Totem-Guide Hartebeest</name>
 <cost>4W</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Antelope</type>
 <ability>When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.</ability>
 <endability/>
 <stats>2/5</stats>
@@ -376,6 +462,8 @@
 <name>Tragic Arrogance</name>
 <cost>3WW</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Sorcery</type>
 <ability>For each player, you choose from among the permanents that player controls an artifact, a creature, an enchantment, and a planeswalker. Then each player sacrifices all other nonland permanents he or she controls.</ability>
 <endability/>
 <cardend/>
@@ -384,6 +472,8 @@
 <name>Valor in Akros</name>
 <cost>3W</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Enchantment</type>
 <ability>Whenever a creature enters the battlefield under your control, creatures you control get +1/+1 until end of turn.</ability>
 <endability/>
 <cardend/>
@@ -392,6 +482,8 @@
 <name>Vryn Wingmare</name>
 <cost>2W</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Pegasus</type>
 <ability>Flying </ability><ability/><ability>Noncreature spells cost 1 more to cast.</ability>
 <endability/>
 <stats>2/1</stats>
@@ -401,6 +493,8 @@
 <name>Yoked Ox</name>
 <cost>W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Ox</type>
 
 <endability/>
 <stats>0/4</stats>
@@ -410,6 +504,8 @@
 <name>Aegis Angel</name>
 <cost>4WW</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Angel</type>
 <ability>Flying </ability><ability/><ability>When Aegis Angel enters the battlefield, another target permanent gains indestructible for as long as you control Aegis Angel.</ability>
 <endability/>
 <stats>5/5</stats>
@@ -419,6 +515,8 @@
 <name>Divine Verdict</name>
 <cost>3W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Destroy target attacking or blocking creature.</ability>
 <endability/>
 <cardend/>
@@ -427,6 +525,8 @@
 <name>Eagle of the Watch</name>
 <cost>2W</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Bird</type>
 <ability>Flying, vigilance</ability>
 <endability/>
 <stats>2/1</stats>
@@ -436,6 +536,8 @@
 <name>Serra Angel</name>
 <cost>3WW</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Angel</type>
 <ability>Flying </ability><ability>Vigilance</ability>
 <endability/>
 <stats>4/4</stats>
@@ -445,6 +547,8 @@
 <name>Sigiled Starfish</name>
 <cost>1U</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Starfish</type>
 <ability>t: Scry 1.</ability>
 <endability/>
 <stats>0/3</stats>
@@ -454,6 +558,8 @@
 <name>Sigiled Starfish</name>
 <cost>1U</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Starfish</type>
 <ability>t: Scry 1.</ability>
 <endability/>
 <stats>0/3</stats>
@@ -463,6 +569,8 @@
 <name>Alhammarret, High Arbiter</name>
 <cost>5UU</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Legendary Creature - Sphinx</type>
 <ability>Flying </ability><ability>As Alhammarret, High Arbiter enters the battlefield, each opponent reveals his or her hand. You choose the name of a nonland card revealed this way. </ability><ability>Your opponent can't cast spells with the chosen name (as long as this creature is on the battlefield).</ability>
 <endability/>
 <stats>5/5</stats>
@@ -472,6 +580,8 @@
 <name>Anchor to the Æther</name>
 <cost>2U</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Sorcery</type>
 <ability>Put target creature on top of its owner's library.  Scry 1.</ability>
 <endability/>
 <cardend/>
@@ -480,6 +590,8 @@
 <name>Anchor to the Æther</name>
 <cost>2U</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Sorcery</type>
 <ability>Put target creature on top of its owner's library.  Scry 1.</ability>
 <endability/>
 <cardend/>
@@ -488,6 +600,8 @@
 <name>Artificer's Epiphany</name>
 <cost>2U</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Draw two cards. If you control no artifacts, discard a card.</ability>
 <endability/>
 <cardend/>
@@ -496,6 +610,8 @@
 <name>Aspiring Aeronaut</name>
 <cost>3U</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Human Artificer</type>
 <ability>Flying </ability><ability>When Aspiring Aeronaut enters the battlefield, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield.</ability>
 <endability/>
 <stats>1/2</stats>
@@ -505,6 +621,8 @@
 <name>Bone to Ash</name>
 <cost>2UU</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Counter target creature spell. </ability><ability/><ability>Draw a card.</ability>
 <endability/>
 <cardend/>
@@ -513,6 +631,8 @@
 <name>Bone to Ash</name>
 <cost>2UU</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Counter target creature spell. </ability><ability/><ability>Draw a card.</ability>
 <endability/>
 <cardend/>
@@ -521,6 +641,8 @@
 <name>Calculated Dismissal</name>
 <cost>2U</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Counter target spell unless its controller pays 3. </ability><ability/><ability>Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, scry 2.</ability>
 <endability/>
 <cardend/>
@@ -529,6 +651,8 @@
 <name>Calculated Dismissal</name>
 <cost>2U</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Counter target spell unless its controller pays 3. </ability><ability/><ability>Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, scry 2.</ability>
 <endability/>
 <cardend/>
@@ -537,6 +661,8 @@
 <name>Clash of Wills</name>
 <cost>XU</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Instant</type>
 <ability>Counter target spell unless its controller pays X.</ability>
 <endability/>
 <cardend/>
@@ -545,6 +671,8 @@
 <name>Claustrophobia</name>
 <cost>1UU</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Enchantment - Aura</type>
 <ability/><ability>Enchant creature </ability><ability/><ability>When Claustrophobia enters the battlefield, tap enchanted creature. </ability><ability/><ability>Enchanted creature doesn't untap during its controller's untap step.</ability>
 <endability/>
 <cardend/>
@@ -553,6 +681,8 @@
 <name>Day's Undoing</name>
 <cost>2U</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Sorcery</type>
 <ability>Each player shuffles his or her hand and graveyard into his or her library, then draws 7 cards.  If it's your turn, end the turn. (Exile all spells and abilities on the stack, including this card. Discard down to your maximum hand size. Damage wears off, and "this turn" and "until end of turn" effects end.)</ability>
 <endability/>
 <cardend/>
@@ -561,6 +691,8 @@
 <name>Disciple of the Ring</name>
 <cost>3UU</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Human Wizard</type>
 <ability>1, Exile an instant or sorcery card from your graveyard: Choose one — </ability><ability>- Counter target noncreature spell unless its controller pays 2. </ability><ability>- Disciple of the Ring gets +1/+1 until end of turn. </ability><ability>- Tap target creature. </ability><ability>- Untap target creature.</ability>
 <endability/>
 <stats>3/4</stats>
@@ -570,6 +702,8 @@
 <name>Disperse</name>
 <cost>1U</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Return target nonland permanent to its owner's hand.</ability>
 <endability/>
 <cardend/>
@@ -578,6 +712,8 @@
 <name>Displacement Wave</name>
 <cost>XUU</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Sorcery</type>
 <ability>Return all nonland permanents with converted mana cost X or less to their owners' hands.</ability>
 <endability/>
 <cardend/>
@@ -586,6 +722,8 @@
 <name>Faerie Miscreant</name>
 <cost>U</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Faerie Rogue</type>
 <ability>Flying (This creature can't be blocked except by creatures with flying or reach.) </ability><ability>When Faerie Miscreant enters the battlefield, if you control another creature named Faerie Miscreant, draw a card.</ability>
 <endability/>
 <stats>1/1</stats>
@@ -595,6 +733,8 @@
 <name>Harbinger of the Tides</name>
 <cost>UU</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Merfolk Wizard</type>
 <ability>You may cast Harbinger of the Tides as though it had flash if you pay 2 more to cast it. </ability><ability/><ability>When Harbinger of the Tides enters the battlefield, you may return target tapped creature an opponent controls to its owner's hand.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -604,6 +744,8 @@
 <name>Hydrolash</name>
 <cost>2U</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Instant</type>
 <ability>Attacking creatures get -2/-0 until end of turn. </ability><ability>Draw a card.</ability>
 <endability/>
 <cardend/>
@@ -612,6 +754,8 @@
 <name>Jace, Telepath Unbound</name>
 <cost/>
 <startability/>
+<rarity>rare</rarity>
+<type>Planeswalker - Jace</type>
 <ability>+1: Up to one target creature gets -2/-0 until your next turn. </ability><ability>-3: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead. </ability><ability>-9: You get an emblem with "Whenever you cast a spell, target opponent puts the top five cards of his or her library into his or her graveyard". </ability>
 <endability/>
 <stats>5</stats>
@@ -621,6 +765,8 @@
 <name>Jace, Vryn's Prodigy</name>
 <cost>1U</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Legendary Creature - Human Wizard</type>
 <ability>T: Draw a card, then discard a card. If there are five or more cards in your graveyard, exile Jace, Vryn''s Prodigy, then return him to the battefield transformed under his owner's control. </ability>
 <endability/>
 <stats>0/2</stats>
@@ -630,6 +776,8 @@
 <name>Jace's Sanctum</name>
 <cost>3U</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Enchantment</type>
 <ability>Instant and sorcery spells you cast coast 1 less to cast. </ability><ability/><ability>Whenever you cast an instant or a sorcery spell, scry 1.</ability>
 <endability/>
 <cardend/>
@@ -638,6 +786,8 @@
 <name>Jhessian Thief</name>
 <cost>2U</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Human Rogue</type>
 <ability>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.) </ability><ability>Whenever Jhessian Thief deals combat damage to a player, draw a card.</ability>
 <endability/>
 <stats>1/3</stats>
@@ -647,6 +797,8 @@
 <name>Maritime Guard</name>
 <cost>1U</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Merfolk Soldier</type>
 
 <endability/>
 <stats>1/3</stats>
@@ -656,6 +808,8 @@
 <name>Mizzium Meddler</name>
 <cost>2U</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Vedalken Wizard</type>
 <ability>Flash </ability><ability/><ability>When Mizzium Meddler enters the battlefield, you may change a target of target spell or ability to Mizzium Meddler.</ability>
 <endability/>
 <stats>1/4</stats>
@@ -665,6 +819,8 @@
 <name>Negate</name>
 <cost>1U</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Counter target noncreature spell.</ability>
 <endability/>
 <cardend/>
@@ -673,6 +829,8 @@
 <name>Ringwarden Owl</name>
 <cost>3UU</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Bird</type>
 <ability>Flying (This creature can't be blocked except by creatures with flying or reach.) </ability><ability>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</ability>
 <endability/>
 <stats>3/3</stats>
@@ -682,6 +840,8 @@
 <name>Scrapskin Drake</name>
 <cost>2U</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Zombie Drake</type>
 <ability>Flying </ability><ability/><ability>Scrapskin Drake can block only creatures with flying.</ability>
 <endability/>
 <stats>2/3</stats>
@@ -691,6 +851,8 @@
 <name>Screeching Skaab</name>
 <cost>1U</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Zombie</type>
 <ability>When Screeching Skaab enters the battlefield, put the top two cards of your library into your graveyard.</ability>
 <endability/>
 <stats>2/1</stats>
@@ -700,6 +862,8 @@
 <name>Screeching Skaab</name>
 <cost>1U</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Zombie</type>
 <ability>When Screeching Skaab enters the battlefield, put the top two cards of your library into your graveyard.</ability>
 <endability/>
 <stats>2/1</stats>
@@ -709,6 +873,8 @@
 <name>Send to Sleep</name>
 <cost>1U</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Tap up to two target creatures. </ability><ability>Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, those creatures don't untap during their controllers' next untap steps.</ability>
 <endability/>
 <cardend/>
@@ -717,6 +883,8 @@
 <name>Separatist Voidmage</name>
 <cost>3U</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Human Wizard</type>
 <ability>When Separatist Voidmage enters the battlefield, you may return target creature to its owner's hand.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -726,6 +894,8 @@
 <name>Soulblade Djinn</name>
 <cost>3UU</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Djinn</type>
 <ability>Flying </ability><ability/><ability>Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.</ability>
 <endability/>
 <stats>4/3</stats>
@@ -735,6 +905,8 @@
 <name>Sphinx's Tutelage</name>
 <cost>2U</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Enchantment</type>
 <ability>Whenever you draw a card, target opponent puts the top two cards of his or her library into his or her graveyard. If they're both nonland cards that share a color, repeat this process. </ability><ability>5U: Draw a card, then discard a card.</ability>
 <endability/>
 <cardend/>
@@ -743,6 +915,8 @@
 <name>Talent of the Telepath</name>
 <cost>2UU</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Sorcery</type>
 <ability>Target opponent reveals the top seven cards of his or her library. You may cast an instant or sorcery card from among them without paying its mana cost. Then that player puts the rest into his or her graveyard. </ability><ability>Spell mastery --- If there are two or more instant and/or sorcery cards in your graveyard, you may cast up to two revealed instant and/or sorcery cards instead of one.</ability>
 <endability/>
 <cardend/>
@@ -751,6 +925,8 @@
 <name>Thopter Spy Network</name>
 <cost>2UU</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Enchantment</type>
 <ability>At the beginning of your upkeep, if you control an artifact, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield. </ability><ability>Whenever one or more artifact creatures you control deals combat damage to a player, draw a card.</ability>
 <endability/>
 <cardend/>
@@ -759,6 +935,8 @@
 <name>Tower Geist</name>
 <cost>3U</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Spirit</type>
 <ability>Flying </ability><ability/><ability>When Tower Geist enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -768,6 +946,8 @@
 <name>Whirler Rogue</name>
 <cost>2UU</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Human Rogue Artificer</type>
 <ability>When Whirler Rogue enters the battlefield, put two 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield. </ability><ability>Tap two untapped artifacts you control: Target creature can't be blocked this turn.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -777,6 +957,8 @@
 <name>Willbreaker</name>
 <cost>3UU</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Human Wizard</type>
 <ability>Whenever a creature an opponent controls becomes the target of a spell or ability you control, gain control of that creature for as long as you control Willbreaker.</ability>
 <endability/>
 <stats>2/3</stats>
@@ -786,6 +968,8 @@
 <name>Into the Void</name>
 <cost>3U</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Sorcery</type>
 <ability>Return up to two target creatures to their owners' hands.</ability>
 <endability/>
 <cardend/>
@@ -794,6 +978,8 @@
 <name>Mahamoti Djinn</name>
 <cost>4UU</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Djinn</type>
 <ability>Flying</ability>
 <endability/>
 <stats>5/6</stats>
@@ -803,6 +989,8 @@
 <name>Weave Fate</name>
 <cost>3U</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Draw two cards.</ability>
 <endability/>
 <cardend/>
@@ -811,6 +999,8 @@
 <name>Blightcaster</name>
 <cost>3B</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Human Wizard</type>
 <ability>Whenever you cast an enchantment spell, you may have target creature get -2/-2 until end of turn.</ability>
 <endability/>
 <stats>2/3</stats>
@@ -820,6 +1010,8 @@
 <name>Blightcaster</name>
 <cost>3B</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Human Wizard</type>
 <ability>Whenever you cast an enchantment spell, you may have target creature get -2/-2 until end of turn.</ability>
 <endability/>
 <stats>2/3</stats>
@@ -829,6 +1021,8 @@
 <name>Catacomb Slug</name>
 <cost>4B</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Slug</type>
 
 <endability/>
 <stats>2/6</stats>
@@ -838,6 +1032,8 @@
 <name>Cruel Revival</name>
 <cost>4B</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Instant</type>
 <ability>Destroy target non-Zombie creature. It can't be regenerated. Return up to one target Zombie card from your graveyard to your hand.</ability>
 <endability/>
 <cardend/>
@@ -846,6 +1042,8 @@
 <name>Dark Petition</name>
 <cost>3BB</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Sorcery</type>
 <ability>Search your library for a card and put that card into your hand. Then shuffle your library. </ability><ability>Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, add BBB to your mana pool.</ability>
 <endability/>
 <cardend/>
@@ -854,6 +1052,8 @@
 <name>Deadbridge Shaman</name>
 <cost>2B</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Elf Shaman</type>
 <ability>When Deadbridge Shaman dies, target opponent discards a card.</ability>
 <endability/>
 <stats>3/1</stats>
@@ -863,6 +1063,8 @@
 <name>Demonic Pact</name>
 <cost>2BB</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Enchantment</type>
 <ability>At the beginning of your upkeep, choose one that hasn't been chosen — </ability><ability>- Demonic Pact deals 4 damage to target creature or player and you gain 4 life. </ability><ability>- Target opponent discards two cards. </ability><ability>- Draw two cards. </ability><ability>- You lose the game.</ability>
 <endability/>
 <cardend/>
@@ -871,6 +1073,8 @@
 <name>Despoiler of Souls</name>
 <cost>BB</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Horror</type>
 <ability>Despoiler of Souls can't block. </ability><ability/><ability>BB, Exile two other creature cards from your graveyard: Return Despoiler of Souls from your graveyard to the battlefield.</ability>
 <endability/>
 <stats>3/1</stats>
@@ -880,6 +1084,8 @@
 <name>Erebos's Titan</name>
 <cost>1BBB</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Giant</type>
 <ability>As long as your opponents control no creatures, Erebos's Titan has indestructible. </ability><ability/><ability>Whenever a creature card leaves an opponent's graveyard, you may discard a card. If you do, return Erebos's Titan from your graveyard to your hand.</ability>
 <endability/>
 <stats>5/5</stats>
@@ -889,6 +1095,8 @@
 <name>Eyeblight Assassin</name>
 <cost>2B</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Elf Assassin</type>
 <ability>When Eyeblight Assassin enters the battlefield, target creature an opponent controls gets -1/-1 until end of turn.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -898,6 +1106,8 @@
 <name>Fleshbag Marauder</name>
 <cost>2B</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Zombie Warrior</type>
 <ability>When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.</ability>
 <endability/>
 <stats>3/1</stats>
@@ -907,6 +1117,8 @@
 <name>Fleshbag Marauder</name>
 <cost>2B</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Zombie Warrior</type>
 <ability>When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.</ability>
 <endability/>
 <stats>3/1</stats>
@@ -916,6 +1128,8 @@
 <name>Gilt-Leaf Winnower</name>
 <cost>3BB</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Elf Warrior</type>
 <ability>Menace (This creature can't be blocked except by two or more creatures.) </ability><ability/><ability>When Gilt-Leaf Winnower enters the battlefield, you may destroy target non-Elf creature whose power and toughness aren't equal.</ability>
 <endability/>
 <stats>4/3</stats>
@@ -925,6 +1139,8 @@
 <name>Gnarlroot Trapper</name>
 <cost>B</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Elf Druid</type>
 <ability>t, Pay 1 life: Add G to your mana pool. Spend this mana only to cast an Elf creature spell. </ability><ability>t: Target attacking Elf you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)</ability>
 <endability/>
 <stats>1/1</stats>
@@ -934,6 +1150,8 @@
 <name>Graveblade Marauder</name>
 <cost>2B</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Human Warrior</type>
 <ability>Deathtouch </ability><ability/><ability>Whenever Graveblade Marauder deals combat damage to a player, that player player loses life equal to the number of creature cards in your graveyard.</ability>
 <endability/>
 <stats>1/4</stats>
@@ -943,6 +1161,8 @@
 <name>Infernal Scarring</name>
 <cost>1B</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Enchantment - Aura</type>
 <ability>Enchant creature </ability><ability/><ability>Enchanted creature gets +2/+0 and has "When this creature dies, draw a card."</ability>
 <endability/>
 <cardend/>
@@ -951,6 +1171,8 @@
 <name>Infinite Obliteration</name>
 <cost>1BB</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Sorcery</type>
 <ability>Name a creature card.  Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them.  Then that player shuffles his or her library.</ability>
 <endability/>
 <cardend/>
@@ -959,6 +1181,8 @@
 <name>Kothophed, Soul Hoarder</name>
 <cost>4BB</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Legendary Creature - Demon</type>
 <ability>Flying </ability><ability/><ability>Whenever a permanent owned by another player is put into the graveyard from the battlefield, you draw one card and lose 1 life.</ability>
 <endability/>
 <stats>6/6</stats>
@@ -968,6 +1192,8 @@
 <name>Languish</name>
 <cost>2BB</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Sorcery</type>
 <ability>All creatures get -4/-4 until end of turn.</ability>
 <endability/>
 <cardend/>
@@ -976,6 +1202,8 @@
 <name>Liliana, Defiant Necromancer</name>
 <cost/>
 <startability/>
+<rarity>rare</rarity>
+<type>Planeswalker - Liliana</type>
 <ability>+2: Each player discards a card. </ability><ability/><ability>-X: Return target nonlegendary creature with converted mana cost X from your graveyard to the battlefield. </ability><ability/><ability>-8: You get an emblem with "Whenever a creature you control dies, return it to the battlefield under your control at the beginning of the next end step."</ability>
 <endability/>
 <stats>3</stats>
@@ -985,6 +1213,8 @@
 <name>Liliana, Heretical Healer</name>
 <cost>1BB</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Legendary Creature - Human Cleric</type>
 <ability>Lifelink </ability><ability>Whenever another nontoken creature you control dies, exile Liliana Heretical Healer, then return her to the battlefield transformed under her owner's control. If you do, put a 2/2 black Zombie creature token onto the battlefield.</ability>
 <endability/>
 <stats>2/3</stats>
@@ -994,6 +1224,8 @@
 <name>Malakir Cullblade</name>
 <cost>1B</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Vampire Warrior</type>
 <ability>Whenever a creature an opponent controls dies, put a +1/+1 counter on Malakir Cullblade.</ability>
 <endability/>
 <stats>1/1</stats>
@@ -1003,6 +1235,8 @@
 <name>Nantuko Husk</name>
 <cost>2B</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Zombie Insect</type>
 <ability>Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -1012,6 +1246,8 @@
 <name>Necromantic Summons</name>
 <cost>4B</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Sorcery</type>
 <ability>Put target creature card from a graveyard onto the battlefield under your control. </ability><ability/><ability>Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, that creature enters the battlefield with two additional +1/+1 counters on it.</ability>
 <endability/>
 <cardend/>
@@ -1020,6 +1256,8 @@
 <name>Priest of the Blood Rite</name>
 <cost>3BB</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Human Cleric</type>
 <ability>When Priest of the Blood Rite enters the battlefield, put a 5/5 black Demon creature token with flying onto the battlefield. </ability><ability>At the beginning of your upkeep, you lose 2 life.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -1029,6 +1267,8 @@
 <name>Rabid Bloodsucker</name>
 <cost>4B</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Vampire</type>
 <ability>Flying </ability><ability>When Rabid Bloodsucker enters the battlefield, each player loses 2 life.</ability>
 <endability/>
 <stats>3/2</stats>
@@ -1038,6 +1278,8 @@
 <name>Reave Soul</name>
 <cost>1B</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Sorcery</type>
 <ability>Destroy target creature with power 3 or less.</ability>
 <endability/>
 <cardend/>
@@ -1046,6 +1288,8 @@
 <name>Shambling Ghoul</name>
 <cost>1B</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Zombie</type>
 <ability>Shambling Ghoul enters the battlefield tapped.</ability>
 <endability/>
 <stats>2/3</stats>
@@ -1055,6 +1299,8 @@
 <name>Tainted Remedy</name>
 <cost>2B</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Enchantment</type>
 <ability>If an opponent would gain life, that player loses that much life instead.</ability>
 <endability/>
 <cardend/>
@@ -1063,6 +1309,8 @@
 <name>Undead Servant</name>
 <cost>3B</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Zombie</type>
 <ability>When Undead Servant enters the battlefield, put a 2/2 black Zombie creature token onto the battlefield for each card named Undead Servant in your graveyard.</ability>
 <endability/>
 <stats>3/2</stats>
@@ -1072,6 +1320,8 @@
 <name>Unholy Hunger</name>
 <cost>3BB</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Destroy target creature. </ability><ability/><ability>Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, you gain 2 life.</ability>
 <endability/>
 <cardend/>
@@ -1080,6 +1330,8 @@
 <name>Weight of the Underworld</name>
 <cost>3B</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Enchantment - Aura</type>
 <ability>Enchant creature </ability><ability/><ability>Enchanted creature gets -3/-2.</ability>
 <endability/>
 <cardend/>
@@ -1088,6 +1340,8 @@
 <name>Flesh to Dust</name>
 <cost>3BB</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Destroy target creature. It can't be regenerated.</ability>
 <endability/>
 <cardend/>
@@ -1096,6 +1350,8 @@
 <name>Mind Rot</name>
 <cost>2B</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Sorcery</type>
 <ability>Target player discards two cards.</ability>
 <endability/>
 <cardend/>
@@ -1104,6 +1360,8 @@
 <name>Nightmare</name>
 <cost>5B</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Nightmare Horse</type>
 <ability>Flying </ability><ability/><ability>Nightmare's power and toughness are each equal to the number of Swamps you control.</ability>
 <endability/>
 <stats>*/*</stats>
@@ -1113,6 +1371,8 @@
 <name>Sengir Vampire</name>
 <cost>3BB</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Vampire</type>
 <ability>Flying </ability><ability/><ability>Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.</ability>
 <endability/>
 <stats>4/4</stats>
@@ -1122,6 +1382,8 @@
 <name>Abbot of Keral Keep</name>
 <cost>1R</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Human Monk</type>
 <ability>Prowess </ability><ability>When Abbot of Keral Keep enters the battlefield, exile the top card of your library. Until end of turn, you may play that card.</ability>
 <endability/>
 <stats>2/1</stats>
@@ -1131,6 +1393,8 @@
 <name>Act of Treason</name>
 <cost>2R</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Sorcery</type>
 <ability>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</ability>
 <endability/>
 <cardend/>
@@ -1139,6 +1403,8 @@
 <name>Akroan Sergeant</name>
 <cost>2R</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Human Soldier</type>
 <ability>First strike </ability><ability>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)</ability>
 <endability/>
 <stats>?/?</stats>
@@ -1148,6 +1414,8 @@
 <name>Akroan Sergeant</name>
 <cost>2R</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Human Soldier</type>
 <ability>First strike </ability><ability>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)</ability>
 <endability/>
 <stats>?/?</stats>
@@ -1157,6 +1425,8 @@
 <name>Avaricious Dragon</name>
 <cost>2RR</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Dragon</type>
 <ability>Flying </ability><ability>At the beginning of your draw step, draw an additional card. </ability><ability>At the beginning of your end step, discard your hand.</ability>
 <endability/>
 <stats>4/4</stats>
@@ -1166,6 +1436,8 @@
 <name>Bellows Lizard</name>
 <cost>R</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Lizard</type>
 <ability>1R: Bellows Lizard gets +1/+0 until end of turn.</ability>
 <endability/>
 <stats>1/1</stats>
@@ -1175,6 +1447,8 @@
 <name>Boggart Brute</name>
 <cost>2R</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Goblin Warrior</type>
 <ability>Menace (This creature can't be blocked except by two or more creatures.)</ability>
 <endability/>
 <stats>3/2</stats>
@@ -1184,6 +1458,8 @@
 <name>Call of the Full Moon</name>
 <cost>1R</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Enchantment - Aura</type>
 <ability>Enchant creature </ability><ability>Enchanted creature gets +3/+2 and has trample. </ability><ability>At the beginning of each upkeep, if a player cast two or more spells last turn, sacrifice Call of the Full Moon.</ability>
 <endability/>
 <cardend/>
@@ -1192,6 +1468,8 @@
 <name>Call of the Full Moon</name>
 <cost>1R</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Enchantment - Aura</type>
 <ability>Enchant creature </ability><ability>Enchanted creature gets +3/+2 and has trample. </ability><ability>At the beginning of each upkeep, if a player cast two or more spells last turn, sacrifice Call of the Full Moon.</ability>
 <endability/>
 <cardend/>
@@ -1200,6 +1478,8 @@
 <name>Chandra, Fire of Kaladesh</name>
 <cost>1RR</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Legendary Creature - Human Shaman</type>
 <ability>Whenever you cast a red spell, untap Chandra, Fire of Kaladesh. </ability><ability/><ability>T: Chandra, Fire of Kaladesh deals 1 damage to target player.  If Chandra has dealt 3 or more damage this turn, exile her, then return her to the battlefield transformed under her owner's control.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -1209,6 +1489,8 @@
 <name>Chandra, Roaring Flame</name>
 <cost/>
 <startability/>
+<rarity>rare</rarity>
+<type>Planeswalker - Chandra</type>
 <ability>+1: Chandra, Roaring Flame deals 2 damage to target player. </ability><ability/><ability>-2: Chandra, Roaring Flame deals 2 damage to target creature. </ability><ability/><ability>-7: Chandra, Roaring Flame deals 6 damage to each opponent.  Each player dealt damage this way gets an emblem with "At the beginning of your upkeep, this emblem deals 3 damage to you."</ability>
 <endability/>
 <stats>4</stats>
@@ -1218,6 +1500,8 @@
 <name>Chandra's Fury</name>
 <cost>4R</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Chandra's Fury deals 4 damage to target player and 1 damage to each creature that player controls.</ability>
 <endability/>
 <cardend/>
@@ -1226,6 +1510,8 @@
 <name>Chandra's Ignition</name>
 <cost>3RR</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Sorcery</type>
 <ability>Target creature you control deals damage equal to its power to each other creature and each opponent.</ability>
 <endability/>
 <cardend/>
@@ -1234,6 +1520,8 @@
 <name>Cobblebrute</name>
 <cost>3R</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Elemental</type>
 
 <endability/>
 <stats>5/2</stats>
@@ -1243,6 +1531,8 @@
 <name>Embermaw Hellion</name>
 <cost>3RR</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Hellion</type>
 <ability>Trample </ability><ability>If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.</ability>
 <endability/>
 <stats>4/5</stats>
@@ -1252,6 +1542,8 @@
 <name>Enthralling Victor</name>
 <cost>3R</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Human Warrior</type>
 <ability>When Enthralling Victor enters the battlefield, gain control of target creature an opponent controls with power 2 or less until end of turn. Untap that creature. It gains haste until end of turn.</ability>
 <endability/>
 <stats>3/2</stats>
@@ -1261,6 +1553,8 @@
 <name>Exquisite Firecraft</name>
 <cost>1RR</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Sorcery</type>
 <ability>Exquisite Firecraft deals 4 damage to target creature or player. </ability><ability/><ability>Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, Exquisite Firecraft can't be countered by spells or abilities.</ability>
 <endability/>
 <cardend/>
@@ -1269,6 +1563,8 @@
 <name>Fiery Conclusion</name>
 <cost>1R</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Instant</type>
 <ability>As an additional cost to cast Fiery Conclusion, sacrifice a creature. </ability><ability/><ability>Fiery Conclusion deals 5 damage to target creature.</ability>
 <endability/>
 <cardend/>
@@ -1277,6 +1573,8 @@
 <name>Fiery Impulse</name>
 <cost>R</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Fiery Impulse deals 2 damage to target creature. </ability><ability/><ability>Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, Fiery Impulse deals 3 damage to that creature instead.</ability>
 <endability/>
 <cardend/>
@@ -1285,6 +1583,8 @@
 <name>Flameshadow Conjuring</name>
 <cost>3R</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Enchantment</type>
 <ability>Whenever a nontoken creature enters the battlefield under your control, you may pay R. If you do, put a token onto the battlefield that's a copy of that creature. That token gains haste. Exile it at the beginning of the next end step.</ability>
 <endability/>
 <cardend/>
@@ -1293,6 +1593,8 @@
 <name>Ghirapur Gearcrafter</name>
 <cost>2R</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Human Artificer</type>
 <ability>When Ghirapur Gearcrafter enters the battlefield, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield.</ability>
 <endability/>
 <stats>2/1</stats>
@@ -1302,6 +1604,8 @@
 <name>Goblin Glory Chaser</name>
 <cost>R</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Goblin Warrior</type>
 <ability>Renown 1 (When this creature deals combat damage to an opponent, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.) </ability><ability/><ability>As long as Goblin Glory Chaser is renowned, it has menace. (It can't be blocked except by two or more creatures.)</ability>
 <endability/>
 <stats>1/1</stats>
@@ -1311,6 +1615,8 @@
 <name>Goblin Piledriver</name>
 <cost>1R</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Goblin Warror</type>
 <ability>Protection from blue (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue.) </ability><ability/><ability>Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking goblin.</ability>
 <endability/>
 <stats>1/2</stats>
@@ -1320,6 +1626,8 @@
 <name>Infectious Bloodlust</name>
 <cost>1R</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Enchantment - Aura</type>
 <ability>Enchant creature </ability><ability>Enchanted creature gets +2/+1, has haste, and attacks each turn if able. </ability><ability>When enchanted creature dies, you may search your library for a card named Infectious Bloodlust, reveal it, put it into your hand, then shuffle your library.</ability>
 <endability/>
 <cardend/>
@@ -1328,6 +1636,8 @@
 <name>Lightning Javelin</name>
 <cost>3R</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Sorcery</type>
 <ability>Lightning Javelin deals 3 damage to target creature or player. Scry 1.</ability>
 <endability/>
 <cardend/>
@@ -1336,6 +1646,8 @@
 <name>Magmatic Insight</name>
 <cost>R</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Sorcery</type>
 <ability>As an additional cost to cast Magmatic Insight, discard a land card. </ability><ability/><ability>Draw two cards.</ability>
 <endability/>
 <cardend/>
@@ -1344,6 +1656,8 @@
 <name>Molten Vortex</name>
 <cost>R</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Enchantment</type>
 <ability>R, Discard a land card: Molten Vortex deals 2 damage to target creature or player.</ability>
 <endability/>
 <cardend/>
@@ -1352,6 +1666,8 @@
 <name>Pia and Kiran Nalaar</name>
 <cost>2RR</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Legendary Creature - Human Artificer</type>
 <ability>When Pia and Kiran Nalaar enters the battlefield put 2 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield. </ability><ability/><ability>2R, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 damage to target creature or player.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -1361,6 +1677,8 @@
 <name>Ravaging Blaze</name>
 <cost>XRR</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Instant</type>
 <ability>Ravaging Blaze deals X damage to target creature. </ability><ability>Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, Ravaging Blaze also deals X damage to that creature's controller.</ability>
 <endability/>
 <cardend/>
@@ -1369,6 +1687,8 @@
 <name>Scab-Clan Berserker</name>
 <cost>1RR</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Human Berserker</type>
 <ability>Haste </ability><ability/><ability>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.) </ability><ability/><ability>Whenever an opponent casts a noncreature spell, if Scab-Clan Berserker is renowned, Scab-Clan Berserker deals 2 damage to that player.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -1378,6 +1698,8 @@
 <name>Seismic Elemental</name>
 <cost>3RR</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Elemental</type>
 <ability>When Seismic Elemental enters the battlefield, creatures without flying can't block this turn.</ability>
 <endability/>
 <stats>4/4</stats>
@@ -1387,6 +1709,8 @@
 <name>Smash to Smithereens</name>
 <cost>1R</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Destroy target artifact. Smash to Smithereens deals 3 damage to that artifact's controller.</ability>
 <endability/>
 <cardend/>
@@ -1395,6 +1719,8 @@
 <name>Subterranean Scout</name>
 <cost>1R</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Goblin Scout</type>
 <ability>When Subterranean Scout enters the battlefield, target creature with power 2 or less can't be blocked this turn.</ability>
 <endability/>
 <stats>2/1</stats>
@@ -1404,6 +1730,8 @@
 <name>Titan's Strength</name>
 <cost>R</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Target creature gets +3/+1 until end of turn. Scry 1.</ability>
 <endability/>
 <cardend/>
@@ -1412,6 +1740,8 @@
 <name>Volcanic Rambler</name>
 <cost>5R</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Elemental</type>
 <ability>2R: Volcanic Rambler deals 1 damage to target player.</ability>
 <endability/>
 <stats>6/4</stats>
@@ -1421,6 +1751,8 @@
 <name>Fiery Hellhound</name>
 <cost>1RR</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Elemental Hound</type>
 <ability>R: Fiery Hellhound gets +1/+0 until end of turn.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -1430,6 +1762,8 @@
 <name>Shivan Dragon</name>
 <cost>4RR</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Dragon</type>
 <ability>Flying </ability><ability/><ability>R: Shivan Dragon gets +1/+0 until end of turn.</ability>
 <endability/>
 <stats>5/5</stats>
@@ -1439,6 +1773,8 @@
 <name>Animist's Awakening</name>
 <cost>XG</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Sorcery</type>
 <ability>Reveal the top X cards of your library. Put all land cards from among them onto the battlefield tapped and the rest on the bottom of your library in any order. </ability><ability>Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, untap those lands.</ability>
 <endability/>
 <cardend/>
@@ -1447,6 +1783,8 @@
 <name>Conclave Naturalists</name>
 <cost>4G</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Dryad</type>
 <ability>When Conclave Naturalists enters the battlefield, you may destroy target artifact or enchantment.</ability>
 <endability/>
 <stats>4/4</stats>
@@ -1456,6 +1794,8 @@
 <name>Dwynen, Gilt-Leaf Daen</name>
 <cost>2GG</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Legendary Creature - Elf Warrior</type>
 <ability>Reach </ability><ability>Other Elf creatures you control get +1/+1. </ability><ability>Whenever Dwynen, Gilt-Leaf Daen attacks, you gain 1 life for each attacking Elf you control.</ability>
 <endability/>
 <stats>3/4</stats>
@@ -1465,6 +1805,8 @@
 <name>Dwynen's Elite</name>
 <cost>1G</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Elf Warrior</type>
 <ability>When Dwynen's Elite enters the battlefield, if you control another Elf, put a 1/1 green Elf Warrior creature token onto the battlefield.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -1474,6 +1816,8 @@
 <name>Elemental Bond</name>
 <cost>2G</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Enchantment</type>
 <ability>Whenever a creature with power 3 or greater enters the battlefield under your control, draw a card.</ability>
 <endability/>
 <cardend/>
@@ -1482,6 +1826,8 @@
 <name>Elvish Visionary</name>
 <cost>1G</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Elf Shaman</type>
 <ability>When Elvish Visionary enters the battlefield, draw a card.</ability>
 <endability/>
 <stats>1/1</stats>
@@ -1491,6 +1837,8 @@
 <name>Evolutionary Leap</name>
 <cost>1G</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Enchantment</type>
 <ability>G, Sacrifice a creature: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.</ability>
 <endability/>
 <cardend/>
@@ -1499,6 +1847,8 @@
 <name>Gaea's Revenge</name>
 <cost>5GG</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Elemental</type>
 <ability>Gaea's Revenge can't be countered. </ability><ability/><ability>Haste </ability><ability/><ability>Gaea's Revenge can't be the target of nongreen spells or abilities from nongreen sources.</ability>
 <endability/>
 <stats>8/5</stats>
@@ -1508,6 +1858,8 @@
 <name>The Great Aurora</name>
 <cost>6GGG</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Sorcery</type>
 <ability>Each player shuffles all cards from his or her hand and all permanents he or she owns into his or her library, then draws that many cards. Each player may put any number of land cards from his or her hand onto the battlefield. Exile The Great Aurora.</ability>
 <endability/>
 <cardend/>
@@ -1516,6 +1868,8 @@
 <name>Herald of the Pantheon</name>
 <cost>1G</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Centaur Shaman</type>
 <ability>Encahntment spells you cast cost 1 less to cast. </ability><ability/><ability>Whenever you cast an enchantment spell, you gain 1 life.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -1525,6 +1879,8 @@
 <name>Hitchclaw Recluse</name>
 <cost>2G</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Spider</type>
 <ability>Reach</ability>
 <endability/>
 <stats>1/4</stats>
@@ -1534,6 +1890,8 @@
 <name>Honored Hierarch</name>
 <cost>G</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Human Druid</type>
 <ability>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.) </ability><ability>As long as Honored Hierarch is renowned, it has vigilance and "t: Add one mana of any color to your mana pool."</ability>
 <endability/>
 <stats>1/1</stats>
@@ -1543,6 +1901,8 @@
 <name>Joraga Invocation</name>
 <cost>4GG</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Sorcery</type>
 <ability>Each creature you control gets +3/+3 until end of turn and must be blocked this turn if able.</ability>
 <endability/>
 <cardend/>
@@ -1551,6 +1911,8 @@
 <name>Leaf Gilder</name>
 <cost>1G</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Elf Druid</type>
 <ability>T: Add G to your mana pool.</ability>
 <endability/>
 <stats>2/1</stats>
@@ -1560,6 +1922,8 @@
 <name>Managorger Hydra</name>
 <cost>2G</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Hydra</type>
 <ability>Trample </ability><ability/><ability>Whenever a player casts a spell, put a +1/+1 counter on Managorger Hydra.</ability>
 <endability/>
 <stats>1/1</stats>
@@ -1569,6 +1933,8 @@
 <name>Mantle of Webs</name>
 <cost>1G</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Enchantment - Aura</type>
 <ability>Enchant Creature </ability><ability>Enchanted creature gets +1/+3 and has reach.</ability>
 <endability/>
 <cardend/>
@@ -1577,6 +1943,8 @@
 <name>Might of the Masses</name>
 <cost>G</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Target creature gets +1/+1 until end of turn for each creature you control.</ability>
 <endability/>
 <cardend/>
@@ -1585,6 +1953,8 @@
 <name>Nissa, Sage Animist</name>
 <cost/>
 <startability/>
+<rarity>rare</rarity>
+<type>Planeswalker - Nissa</type>
 <ability>+1: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand. </ability><ability>-2: Put a legendary 4/4 green Elemental creature token named Ashaya, the Awoken World onto the battlefield. </ability><ability>-7: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.</ability>
 <endability/>
 <stats>3</stats>
@@ -1594,6 +1964,8 @@
 <name>Nissa, Vastwood Seer</name>
 <cost>2G</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Legendary Creature - Elf Scout</type>
 <ability>When Nissa, Vastwood Seer enters the battlefield, you may search your library for a basic Forest card, reveal it, put it into your hand, then shuffle your library. </ability><ability>Whenever a land enters the battlefield under your control, if you control seven or more lands, exile Nissa, then return her to the battlefield transformed under her owner's control.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -1603,6 +1975,8 @@
 <name>Nissa's Pilgrimage</name>
 <cost>2G</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Sorcery</type>
 <ability>Search your library for up to two basic Forest cards, reveal those cards, and put one onto the battlefield tapped and the rest into your hand.  Then shuffle your library. </ability><ability/><ability>Spell Mastery — If there are two or more instant and/or sorcery cards in your graveyard, search your library for up to three basic Forest cards instead of two.</ability>
 <endability/>
 <cardend/>
@@ -1611,6 +1985,8 @@
 <name>Nissa's Revelation</name>
 <cost>5GG</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Sorcery</type>
 <ability>Scry 5, then reveal the top card of your library. If it's a creature card, you draw cards equal to its power and you gain life equal to its toughness.</ability>
 <endability/>
 <cardend/>
@@ -1619,6 +1995,8 @@
 <name>Outland Colossus</name>
 <cost>3GG</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Giant</type>
 <ability>Renown 6 (When this creature deals combat damage to a player, if it isn't renowned, put six +1/+1 counters on it and it becomes renowned.) </ability><ability/><ability>Outland Colossus can't be blocked by more than one creature.</ability>
 <endability/>
 <stats>6/6</stats>
@@ -1628,6 +2006,8 @@
 <name>Rhox Maulers</name>
 <cost>4G</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Rhino Soldier</type>
 <ability>Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.) </ability><ability>Renown 2 (When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.)</ability>
 <endability/>
 <stats>4/4</stats>
@@ -1637,6 +2017,8 @@
 <name>Skysnare Spider</name>
 <cost>4GG</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Spider</type>
 <ability>Vigilance </ability><ability/><ability>Reach</ability>
 <endability/>
 <stats>6/6</stats>
@@ -1646,6 +2028,8 @@
 <name>Skysnare Spider</name>
 <cost>4GG</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Spider</type>
 <ability>Vigilance </ability><ability/><ability>Reach</ability>
 <endability/>
 <stats>6/6</stats>
@@ -1655,6 +2039,8 @@
 <name>Somberwald Alpha</name>
 <cost>3G</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Wolf</type>
 <ability>Whenever a creature you control becomes blocked, it gets +1+1 until end of turn. </ability><ability/><ability>1G: Target creature you control gains trample until end of turn.</ability>
 <endability/>
 <stats>3/2</stats>
@@ -1664,6 +2050,8 @@
 <name>Somberwald Alpha</name>
 <cost>3G</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Wolf</type>
 <ability>Whenever a creature you control becomes blocked, it gets +1+1 until end of turn. </ability><ability/><ability>1G: Target creature you control gains trample until end of turn.</ability>
 <endability/>
 <stats>3/2</stats>
@@ -1673,6 +2061,8 @@
 <name>Sylvan Messenger</name>
 <cost>3G</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Elf</type>
 <ability>Trample </ability><ability/><ability>When Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -1682,6 +2072,8 @@
 <name>Timberpack Wolf</name>
 <cost>1G</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Wolf</type>
 <ability>Timberpack Wolf gets +1/+1 for each other creature you control named Timberpack Wolf.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -1691,6 +2083,8 @@
 <name>Titanic Growth</name>
 <cost>1G</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Target creature gets +4/+4 until end of turn.</ability>
 <endability/>
 <cardend/>
@@ -1699,6 +2093,8 @@
 <name>Valeron Wardens</name>
 <cost>2G</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Human Monk</type>
 <ability>Renown 2 (When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.) </ability><ability/><ability>Whenever a creature you control becomes renowned, draw a card.</ability>
 <endability/>
 <stats>1/3</stats>
@@ -1708,6 +2104,8 @@
 <name>Vastwood Gorger</name>
 <cost>5G</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Wurm</type>
 
 <endability/>
 <stats>5/6</stats>
@@ -1717,6 +2115,8 @@
 <name>Woodland Bellower</name>
 <cost>4GG</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Beast</type>
 <ability>When Woodland Bellower enters the battlefield, you may search your library for a nonlegendary green creature card with converted mana cost 3 or less, put it onto the battlefield, then shuffle your library.</ability>
 <endability/>
 <stats>6/5</stats>
@@ -1726,6 +2126,8 @@
 <name>Yeva's Forcemage</name>
 <cost>2G</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Creature - Elf Shaman</type>
 <ability>When Yeva's Forcemage enters the battlefield, target creature gets +2/+2 until end of turn.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -1735,6 +2137,8 @@
 <name>Zendikar's Roil</name>
 <cost>3GG</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Enchantment</type>
 <ability>Whenever a land enters the battlefield under your control, put a 2/2 green Elemental creature token onto the battlefield.</ability>
 <endability/>
 <cardend/>
@@ -1743,6 +2147,8 @@
 <name>Zendikar's Roil</name>
 <cost>3GG</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Enchantment</type>
 <ability>Whenever a land enters the battlefield under your control, put a 2/2 green Elemental creature token onto the battlefield.</ability>
 <endability/>
 <cardend/>
@@ -1751,6 +2157,8 @@
 <name>Plummet</name>
 <cost>1G</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Instant</type>
 <ability>Destroy target creature with flying.</ability>
 <endability/>
 <cardend/>
@@ -1759,6 +2167,8 @@
 <name>Prized Unicorn</name>
 <cost>3G</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Unicorn</type>
 <ability>All creatures able to block Prized Unicorn do so.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -1768,6 +2178,8 @@
 <name>Terra Stomper</name>
 <cost>3GGG</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Creature - Beast</type>
 <ability>Terra Stomper can't be countered. </ability><ability/><ability>Trample</ability>
 <endability/>
 <stats>8/8</stats>
@@ -1777,6 +2189,8 @@
 <name>Blazing Hellhound</name>
 <cost>2BR</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Elemental Hound</type>
 <ability>1, Sacrifice another creature: Blazing Hellhound deals 1 damage to target creature or player.</ability>
 <endability/>
 <stats>4/3</stats>
@@ -1786,6 +2200,8 @@
 <name>Blood-Cursed Knight</name>
 <cost>1WB</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Vampire Knight</type>
 <ability>As long as you control an enchantment, Blood-Cursed Knight gets +1/+1 and has lifelink.</ability>
 <endability/>
 <stats>3/2</stats>
@@ -1795,6 +2211,8 @@
 <name>Blood-Cursed Knight</name>
 <cost>1WB</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Vampire Knight</type>
 <ability>As long as you control an enchantment, Blood-Cursed Knight gets +1/+1 and has lifelink.</ability>
 <endability/>
 <stats>3/2</stats>
@@ -1804,6 +2222,8 @@
 <name>Bounding Krasis</name>
 <cost>1UB</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Fish Lizard</type>
 <ability>Flash (You may cast this spell any time you could cast an instant.) </ability><ability>When Bounding Krasis enters the battlefield, you may tap or untap target creature.</ability>
 <endability/>
 <stats>3/3</stats>
@@ -1813,6 +2233,8 @@
 <name>Citadel Castellan</name>
 <cost>1GW</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Human Knight</type>
 <ability>Vigilance </ability><ability/><ability>Renown 2 (When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.)</ability>
 <endability/>
 <stats>2/3</stats>
@@ -1822,6 +2244,8 @@
 <name>Reclusive Artificer</name>
 <cost>2UR</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Human Artificer</type>
 <ability>Haste </ability><ability>When Reclusive Artificer enters the battlefield, you may have it deal damage to target creature equal to the number of artifacts you control.</ability>
 <endability/>
 <stats>2/3</stats>
@@ -1831,6 +2255,8 @@
 <name>Shaman of the Pack</name>
 <cost>1BG</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Elf Shaman</type>
 <ability>When Shaman of the Pack enters the battlefield, target opponent loses life equal to the number of Elves you control.</ability>
 <endability/>
 <stats>3/2</stats>
@@ -1840,6 +2266,8 @@
 <name>Zendikar Incarnate</name>
 <cost>2RG</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Creature - Elemental</type>
 <ability>Zendikar Incarnate's power is equal to the amount of lands you control.</ability>
 <endability/>
 <stats>*/4</stats>
@@ -1849,6 +2277,8 @@
 <name>Guardian Automaton</name>
 <cost>4</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Artifact Creature - Construct</type>
 <ability>When Guardian Automaton dies, you gain 3 life.</ability>
 <endability/>
 <stats>3/3</stats>
@@ -1858,6 +2288,8 @@
 <name>Guardian Automaton</name>
 <cost>4</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Artifact Creature - Construct</type>
 <ability>When Guardian Automaton dies, you gain 3 life.</ability>
 <endability/>
 <stats>3/3</stats>
@@ -1867,6 +2299,8 @@
 <name>Sigil of Valor</name>
 <cost>2</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Artifact - Equipment</type>
 <ability>Whenever equipped creature attacks alone, it gets +1/+1 until end of turn for each other creature you control. </ability><ability>Equip 1</ability>
 <endability/>
 <cardend/>
@@ -1875,6 +2309,8 @@
 <name>Sigil of Valor</name>
 <cost>2</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Artifact - Equipment</type>
 <ability>Whenever equipped creature attacks alone, it gets +1/+1 until end of turn for each other creature you control. </ability><ability>Equip 1</ability>
 <endability/>
 <cardend/>
@@ -1883,6 +2319,8 @@
 <name>Alhammarret's Archive</name>
 <cost>5</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Legendary Artifact</type>
 <ability>If you would gain life, you gain twice that much life instead. </ability><ability>If you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.</ability>
 <endability/>
 <cardend/>
@@ -1891,6 +2329,8 @@
 <name>Bonded Construct</name>
 <cost>1</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Artifact Creature - Construct</type>
 <ability>Bonded Construct can't attack alone.</ability>
 <endability/>
 <stats>2/1</stats>
@@ -1900,6 +2340,8 @@
 <name>Chief of the Foundry</name>
 <cost>3</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Artifact Creature - Construct</type>
 <ability>Other artifact creatures you control get +1/+1.</ability>
 <endability/>
 <stats>2/3</stats>
@@ -1909,6 +2351,8 @@
 <name>Gold-Forged Sentinel</name>
 <cost>6</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Artifact Creature - Chimera</type>
 <ability>Flying</ability>
 <endability/>
 <stats>4/4</stats>
@@ -1918,6 +2362,8 @@
 <name>Hangarback Walker</name>
 <cost>XX</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Artifact Creature - Construct</type>
 <ability>Hangarback Walker enters the battlefield with X +1/+1 counters on it. </ability><ability/><ability>When Hangarback Walker dies, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield for each +1/+1 counter on Hangarback Walker. </ability><ability/><ability>1,T: Put a +1/+1 counter on Hangarback Walker.</ability>
 <endability/>
 <stats>0/0</stats>
@@ -1927,6 +2373,8 @@
 <name>Helm of the Gods</name>
 <cost>1</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Artifact - Equipment</type>
 <ability>Equipped creature gets +1/+1 for each enchantment you control. </ability><ability/><ability>Equip 1</ability>
 <endability/>
 <cardend/>
@@ -1935,6 +2383,8 @@
 <name>Jayemdae Tome</name>
 <cost>4</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Artifact</type>
 <ability>4, T: Draw a card.</ability>
 <endability/>
 <cardend/>
@@ -1943,6 +2393,8 @@
 <name>Mage-Ring Responder</name>
 <cost>7</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Artifact Creature - Golem</type>
 <ability>Mage-Ring Responder doesn't untap during your untap step. </ability><ability/><ability>7: Untap Mage-Ring Responder. </ability><ability/><ability>Whenever Mage-Ring Responder attacks, it deals 7 damage to target creature defending player controls.</ability>
 <endability/>
 <stats>7/7</stats>
@@ -1952,6 +2404,8 @@
 <name>Meteorite</name>
 <cost>5</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Artifact</type>
 <ability>When Meteorite enters the battlefield, it deals 2 damage to target creature or player. </ability><ability/><ability>T: Add one mana of any color to your mana pool.</ability>
 <endability/>
 <cardend/>
@@ -1960,6 +2414,8 @@
 <name>Pyromancer's Goggles</name>
 <cost>5</cost>
 <startability/>
+<rarity>rare</rarity>
+<type>Legendary Artifact</type>
 <ability>T: Add R to your mana pool. When that mana is used to cast a red instant or sorcery spell, copy that spell and you may choose new targets for the copy.</ability>
 <endability/>
 <cardend/>
@@ -1968,6 +2424,8 @@
 <name>Runed Servitor</name>
 <cost>2</cost>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Artifact Creature - Construct</type>
 <ability>When Runed Servitor dies, each player draws a card.</ability>
 <endability/>
 <stats>2/2</stats>
@@ -1977,6 +2435,8 @@
 <name>Veteran's Sidearm</name>
 <cost>2</cost>
 <startability/>
+<rarity>common</rarity>
+<type>Artifact - Equipment</type>
 <ability>Equipped creature gets +1/+1. </ability><ability>Equip 1</ability>
 <endability/>
 <cardend/>
@@ -1985,6 +2445,8 @@
 <name>Battlefield Forge</name>
 <cost/>
 <startability/>
+<rarity>rare</rarity>
+<type>Land</type>
 <ability>T: Add 1 to your mana pool. </ability><ability/><ability>T: Add R or W to your mana pool.  Battlefield Forge deals 1 damage to you.</ability>
 <endability/>
 <cardend/>
@@ -1993,6 +2455,8 @@
 <name>Caves of Koilos</name>
 <cost/>
 <startability/>
+<rarity>rare</rarity>
+<type>Land</type>
 <ability>T: Add 1 to your mana pool. </ability><ability/><ability>T: Add W or B to your mana pool.  Caves of Koilos deals 1 damage to you.</ability>
 <endability/>
 <cardend/>
@@ -2001,6 +2465,8 @@
 <name>Foundry of the Consuls</name>
 <cost/>
 <startability/>
+<rarity>uncommon</rarity>
+<type>Land</type>
 <ability>T: Add 1 to your mana pool. </ability><ability>5, T, Sacrifice Foundry of the Consuls: Put two 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield.</ability>
 <endability/>
 <cardend/>
@@ -2009,6 +2475,8 @@
 <name>Llanowar Wastes</name>
 <cost/>
 <startability/>
+<rarity>rare</rarity>
+<type>Land</type>
 <ability>T: Add 1 to your mana pool. </ability><ability/><ability>T: Add B or G to your mana pool.  Llanowar Wastes deals 1 damage to you.</ability>
 <endability/>
 <cardend/>
@@ -2017,6 +2485,8 @@
 <name>Shivan Reef</name>
 <cost/>
 <startability/>
+<rarity>rare</rarity>
+<type>Land</type>
 <ability>T: Add 1 to your mana pool. </ability><ability/><ability>T: Add U or R to your mana pool.  Shivan Reef deals 1 damage to you.</ability>
 <endability/>
 <cardend/>
@@ -2025,6 +2495,8 @@
 <name>Yavimaya Coast</name>
 <cost/>
 <startability/>
+<rarity>rare</rarity>
+<type>Land</type>
 <ability>T: Add 1 to your mana pool. </ability><ability/><ability>T: Add G or U to your mana pool.  Yavimaya Coast deals 1 damage to you.</ability>
 <endability/>
 <cardend/>
@@ -2033,6 +2505,8 @@
 <name>Plains</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Plains</type>
 <ability>(t: Add W to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2041,6 +2515,8 @@
 <name>Plains</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Plains</type>
 <ability>(t: Add W to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2049,6 +2525,8 @@
 <name>Plains</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Plains</type>
 <ability>(t: Add W to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2057,6 +2535,8 @@
 <name>Plains</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Plains</type>
 <ability>(t: Add W to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2065,6 +2545,8 @@
 <name>Island</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Island</type>
 <ability>(t: Add U to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2073,6 +2555,8 @@
 <name>Island</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Island</type>
 <ability>(t: Add U to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2081,6 +2565,8 @@
 <name>Island</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Island</type>
 <ability>(t: Add U to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2089,6 +2575,8 @@
 <name>Island</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Island</type>
 <ability>(t: Add U to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2097,6 +2585,8 @@
 <name>Swamp</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Swamp</type>
 <ability>(t: Add B to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2105,6 +2595,8 @@
 <name>Swamp</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Swamp</type>
 <ability>(t: Add B to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2113,6 +2605,8 @@
 <name>Swamp</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Swamp</type>
 <ability>(t: Add B to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2121,6 +2615,8 @@
 <name>Swamp</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Swamp</type>
 <ability>(t: Add B to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2129,6 +2625,8 @@
 <name>Mountain</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Mountain</type>
 <ability>(t: Add R to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2137,6 +2635,8 @@
 <name>Mountain</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Mountain</type>
 <ability>(t: Add R to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2145,6 +2645,8 @@
 <name>Mountain</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Mountain</type>
 <ability>(t: Add R to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2153,6 +2655,8 @@
 <name>Mountain</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Mountain</type>
 <ability>(t: Add R to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2161,6 +2665,8 @@
 <name>Forest</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Forest</type>
 <ability>(t: Add G to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2169,6 +2675,8 @@
 <name>Forest</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Forest</type>
 <ability>(t: Add G to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2177,6 +2685,8 @@
 <name>Forest</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Forest</type>
 <ability>(t: Add G to your mana pool.)</ability>
 <endability/>
 <cardend/>
@@ -2185,6 +2695,8 @@
 <name>Forest</name>
 <cost/>
 <startability/>
+<rarity>basic land</rarity>
+<type>Basic Land - Forest</type>
 <ability>(t: Add G to your mana pool.)</ability>
 <endability/>
 <cardend/>

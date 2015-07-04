@@ -1,741 +1,1650 @@
-Consul's Lieutenant;"Cost: WW
+Consul's Lieutenant;"
+Cost: WW
+Rarity: uncommon
+Type: Creature - Human Soldier
 First strike 
 Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.) 
-Whenever Consul's Lieutenant attacks, if it's renowned, other attacking creatures you control get +1/+1 until end of turn.Stats: 2/1"
-Consul's Lieutenant;"Cost: WW
+Whenever Consul's Lieutenant attacks, if it's renowned, other attacking creatures you control get +1/+1 until end of turn.
+Stats: 2/1"
+Consul's Lieutenant;"
+Cost: WW
+Rarity: uncommon
+Type: Creature - Human Soldier
 First strike 
 Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.) 
-Whenever Consul's Lieutenant attacks, if it's renowned, other attacking creatures you control get +1/+1 until end of turn.Stats: 2/1"
-Suppression Bonds;"Cost: 3W
+Whenever Consul's Lieutenant attacks, if it's renowned, other attacking creatures you control get +1/+1 until end of turn.
+Stats: 2/1"
+Suppression Bonds;"
+Cost: 3W
+Rarity: common
+Type: Enchantment - Aura
 Enchant nonland permanent 
 Enchanted permanent can't attack or block, and its activated abilities can't be actiated."
-Suppression Bonds;"Cost: 3W
+Suppression Bonds;"
+Cost: 3W
+Rarity: common
+Type: Enchantment - Aura
 Enchant nonland permanent 
 Enchanted permanent can't attack or block, and its activated abilities can't be actiated."
-Akroan Jailer;"Cost: W
-2W, T: Tap target creature.Stats: 1/1"
-Ampryn Tactician;"Cost: 2WW
-When Ampryn Tactician enters the battlefield, creatures you control get +1/+1 until end of turn.Stats: 3/3"
-Ampryn Tactician;"Cost: 2WW
-When Ampryn Tactician enters the battlefield, creatures you control get +1/+1 until end of turn.Stats: 3/3"
-Anointer of Champions;"Cost: W
-T: Target attacking creature gets +1/+1 until end of turn.Stats: 1/1"
-Anointer of Champions;"Cost: W
-T: Target attacking creature gets +1/+1 until end of turn.Stats: 1/1"
-Archangel of Tithes;"Cost: 1WWW
+Akroan Jailer;"
+Cost: W
+Rarity: common
+Type: Creature - Human Soldier
+2W, T: Tap target creature.
+Stats: 1/1"
+Ampryn Tactician;"
+Cost: 2WW
+Rarity: common
+Type: Creature - Human Soldier
+When Ampryn Tactician enters the battlefield, creatures you control get +1/+1 until end of turn.
+Stats: 3/3"
+Ampryn Tactician;"
+Cost: 2WW
+Rarity: common
+Type: Creature - Human Soldier
+When Ampryn Tactician enters the battlefield, creatures you control get +1/+1 until end of turn.
+Stats: 3/3"
+Anointer of Champions;"
+Cost: W
+Rarity: uncommon
+Type: Creature - Human Cleric
+T: Target attacking creature gets +1/+1 until end of turn.
+Stats: 1/1"
+Anointer of Champions;"
+Cost: W
+Rarity: uncommon
+Type: Creature - Human Cleric
+T: Target attacking creature gets +1/+1 until end of turn.
+Stats: 1/1"
+Archangel of Tithes;"
+Cost: 1WWW
+Rarity: rare
+Type: Creature - Angel
 Flying 
 
 As long as Archangel of TIthes is untapped, creatures can't attack you or a planeswalker you control unless their controller pays 1 for each of those creatures. 
 
-As long as Archangel of Tithes is attacking, creatures can't block unless their controller pays 1 for each of those creatures.Stats: 3/5"
-Auramancer;"Cost: 2W
-When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.Stats: 2/2"
-Auramancer;"Cost: 2W
-When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.Stats: 2/2"
-Blessed Spirits;"Cost: 2W
+As long as Archangel of Tithes is attacking, creatures can't block unless their controller pays 1 for each of those creatures.
+Stats: 3/5"
+Auramancer;"
+Cost: 2W
+Rarity: common
+Type: Creature - Human Wizard
+When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.
+Stats: 2/2"
+Auramancer;"
+Cost: 2W
+Rarity: common
+Type: Creature - Human Wizard
+When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.
+Stats: 2/2"
+Blessed Spirits;"
+Cost: 2W
+Rarity: uncommon
+Type: Creature - Spirit
 Flying 
 
-Whenever you cast an enchantment spell, put a +1/+1 counter on Blessed Spirits.Stats: 2/2"
-Celestial Flare;"Cost: WW
+Whenever you cast an enchantment spell, put a +1/+1 counter on Blessed Spirits.
+Stats: 2/2"
+Celestial Flare;"
+Cost: WW
+Rarity: common
+Type: Instant
 Target player sacrifices an attacking or blocking creature."
-Charging Griffin;"Cost: 3W
+Charging Griffin;"
+Cost: 3W
+Rarity: common
+Type: Creature - Griffin
 Flying 
 
-Whenever Charging Griffin attacks, it gets +1/+1 until end of turn.Stats: 2/2"
-Cleric of the Forward Order;"Cost: 1W
-When Cleric of the Forward Order enters the battlefield, you gain 2 life for each creature you control named Cleric of the Forward Order.Stats: 2/2"
-Enshrouding Mist;"Cost: W
+Whenever Charging Griffin attacks, it gets +1/+1 until end of turn.
+Stats: 2/2"
+Cleric of the Forward Order;"
+Cost: 1W
+Rarity: common
+Type: Creature - Human Cleric
+When Cleric of the Forward Order enters the battlefield, you gain 2 life for each creature you control named Cleric of the Forward Order.
+Stats: 2/2"
+Enshrouding Mist;"
+Cost: W
+Rarity: common
+Type: Instant
 Target creature gets +1/+1 until end of turn. Prevent all damage that would be dealt to it this turn. If it's renowned, untap it."
-Gideon's Phalanx;"Cost: 5WW
+Gideon's Phalanx;"
+Cost: 5WW
+Rarity: rare
+Type: Instant
 Put four 2/2 white Knight creature tokens with vigilance onto the battlefield. 
 
 Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, creatures you control gain indestructible until end of turn."
-Grasp of the Hieromancer;"Cost: 1W
+Grasp of the Hieromancer;"
+Cost: 1W
+Rarity: common
+Type: Enchantment - Aura
 Enchant creature 
-Enchanted creature gets +1/+1 and has "Whenever this creature attacks, tap target creature defending player controls.""
-Hallowed Moonlight;"Cost: 1W
+Enchanted creature gets +1/+1 and has `Whenever this creature attacks, tap target creature defending player controls.`"
+Hallowed Moonlight;"
+Cost: 1W
+Rarity: rare
+Type: Instant
 Until end of turn, if a creature would enter the battlefield and it wasn't cast, exile it instead. 
 
 Draw a card."
-Heavy Infantry;"Cost: 4W
-When Heavy Infantry enters the battlefield, tap target creature an opponent controls.Stats: 3/4"
-Hixus, Prison Warden;"Cost: 3WW
+Heavy Infantry;"
+Cost: 4W
+Rarity: common
+Type: Creature - Human Soldier
+When Heavy Infantry enters the battlefield, tap target creature an opponent controls.
+Stats: 3/4"
+Hixus, Prison Warden;"
+Cost: 3WW
+Rarity: rare
+Type: Legendary Creature - Human Soldier
 Flash 
-Whenever a creature deals combat damage to you, if Hixus, Prison Warden entered the battlefield this turn, exile that creature until Hixus leaves the battlefield.Stats: 4/4"
-Knight of the Pilgrim's Road;"Cost: 2W
-Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)Stats: 3/2"
-Knight of the White Orchid;"Cost: WW
+Whenever a creature deals combat damage to you, if Hixus, Prison Warden entered the battlefield this turn, exile that creature until Hixus leaves the battlefield.
+Stats: 4/4"
+Knight of the Pilgrim's Road;"
+Cost: 2W
+Rarity: common
+Type: Creature - Human Knight
+Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+Stats: 3/2"
+Knight of the White Orchid;"
+Cost: WW
+Rarity: rare
+Type: Creature - Human Knight
 First strike 
 
-When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle your library.Stats: 2/2"
-Knightly Valor;"Cost: 4W
+When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle your library.
+Stats: 2/2"
+Knightly Valor;"
+Cost: 4W
+Rarity: uncommon
+Type: Enchantment - Aura
 Enchant creature 
 
 When Knightly Valor enters the battlefield, put a 2/2 white Knight creature token with vigilance onto the battlefield. 
 
 Enchanted creature gets +2/+2 and has vigilance."
-Knightly Valor;"Cost: 4W
+Knightly Valor;"
+Cost: 4W
+Rarity: uncommon
+Type: Enchantment - Aura
 Enchant creature 
 
 When Knightly Valor enters the battlefield, put a 2/2 white Knight creature token with vigilance onto the battlefield. 
 
 Enchanted creature gets +2/+2 and has vigilance."
-Gideon, Battle-Forged;"Cost: 
+Gideon, Battle-Forged;"
+Cost: 
+Rarity: rare
+Type: Planeswalker - Gideon
 +2: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able. 
 +1: Until your next turn, target creature gains indestructible. Untap that creature. 
-0: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.Stats: 3"
-Kytheon, Hero of Akros;"Cost: W
+0: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
+Stats: 3"
+Kytheon, Hero of Akros;"
+Cost: W
+Rarity: rare
+Type: Legendary Creature - Human Soldier
 At end of combat, if Kytheon, Hero of Akros and at least two other creatures attacked this combat, exile Kytheon, then return him to the battlefield transformed under his owner's control. 
-2W: Kytheon gains indestructible until end of turn.Stats: 2/1"
-Kytheon's Irregulars;"Cost: 2WW
+2W: Kytheon gains indestructible until end of turn.
+Stats: 2/1"
+Kytheon's Irregulars;"
+Cost: 2WW
+Rarity: rare
+Type: Creature - Human Soldier
 Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.) 
-WW: Tap target creature.Stats: 4/3"
-Kytheon's Tactics;"Cost: 1WW
+WW: Tap target creature.
+Stats: 4/3"
+Kytheon's Tactics;"
+Cost: 1WW
+Rarity: common
+Type: Sorcery
 Creatures you control get +2/+1 until end of turn. 
 Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, those creatures also gain vigilance until end of turn. (Attacking doesn't cause them to tap.)"
-Kytheon's Tactics;"Cost: 1WW
+Kytheon's Tactics;"
+Cost: 1WW
+Rarity: common
+Type: Sorcery
 Creatures you control get +2/+1 until end of turn. 
 Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, those creatures also gain vigilance until end of turn. (Attacking doesn't cause them to tap.)"
-Mighty Leap;"Cost: 1W
+Mighty Leap;"
+Cost: 1W
+Rarity: common
+Type: Instant
 Target creature gets +2/+2 and gains flying until end of turn."
-Patron of the Valiant;"Cost: 3WW
+Patron of the Valiant;"
+Cost: 3WW
+Rarity: uncommon
+Type: Creature - Angel
 Flying 
-When Patron of the Valiant enters the battlefield, put a +1/+1 counter on each creature you control with a +1/+1 counter on it.Stats: 4/4"
-Relic Seeker;"Cost: 1W
+When Patron of the Valiant enters the battlefield, put a +1/+1 counter on each creature you control with a +1/+1 counter on it.
+Stats: 4/4"
+Relic Seeker;"
+Cost: 1W
+Rarity: rare
+Type: Creature - Human Soldier
 Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.) 
-When Relic Seeker becomes renowned, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library.Stats: 2/2"
-Sentinel of the Eternal Watch;"Cost: 5W
+When Relic Seeker becomes renowned, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library.
+Stats: 2/2"
+Sentinel of the Eternal Watch;"
+Cost: 5W
+Rarity: uncommon
+Type: Creature - Giant Soldier
 Vigilance (Attacking doesn't cause this creature to tap.) 
-At the beginning of combat on each opponent's turn, tap target creature that player controls.Stats: 4/6"
-Sigil of the Empty Throne;"Cost: 3WW
+At the beginning of combat on each opponent's turn, tap target creature that player controls.
+Stats: 4/6"
+Sigil of the Empty Throne;"
+Cost: 3WW
+Rarity: rare
+Type: Enchantment
 Whenever you cast an enchantment spell, put a 4/4 white Angel creature token with flying onto the battlefield."
-Sigil of the Empty Throne;"Cost: 3WW
+Sigil of the Empty Throne;"
+Cost: 3WW
+Rarity: rare
+Type: Enchantment
 Whenever you cast an enchantment spell, put a 4/4 white Angel creature token with flying onto the battlefield."
-Stalwart Aven;"Cost: 2W
+Stalwart Aven;"
+Cost: 2W
+Rarity: common
+Type: Creature - Bird Soldier
 Flying 
 
-Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)Stats: 1/3"
-Stalwart Aven;"Cost: 2W
+Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+Stats: 1/3"
+Stalwart Aven;"
+Cost: 2W
+Rarity: common
+Type: Creature - Bird Soldier
 Flying 
 
-Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)Stats: 1/3"
-Starfield of Nyx;"Cost: 4W
+Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+Stats: 1/3"
+Starfield of Nyx;"
+Cost: 4W
+Rarity: rare
+Type: Enchantment
 At the beginning of your upkeep, you may return target enchantment card from your graveyard to the battlefield. 
 As long as you control five or more enchantments, each other non-Aura enchantment you control is a creature in addition to its other types and has base power and base toughness each equal to its converted mana cost."
-Topan Freeblade;"Cost: 1W
+Topan Freeblade;"
+Cost: 1W
+Rarity: common
+Type: Creature - Human Soldier
 Vigilance 
 
-Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)Stats: 2/2"
-Totem-Guide Hartebeest;"Cost: 4W
-When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.Stats: 2/5"
-Totem-Guide Hartebeest;"Cost: 4W
-When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.Stats: 2/5"
-Tragic Arrogance;"Cost: 3WW
+Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+Stats: 2/2"
+Totem-Guide Hartebeest;"
+Cost: 4W
+Rarity: uncommon
+Type: Creature - Antelope
+When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.
+Stats: 2/5"
+Totem-Guide Hartebeest;"
+Cost: 4W
+Rarity: uncommon
+Type: Creature - Antelope
+When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.
+Stats: 2/5"
+Tragic Arrogance;"
+Cost: 3WW
+Rarity: rare
+Type: Sorcery
 For each player, you choose from among the permanents that player controls an artifact, a creature, an enchantment, and a planeswalker. Then each player sacrifices all other nonland permanents he or she controls."
-Valor in Akros;"Cost: 3W
+Valor in Akros;"
+Cost: 3W
+Rarity: uncommon
+Type: Enchantment
 Whenever a creature enters the battlefield under your control, creatures you control get +1/+1 until end of turn."
-Vryn Wingmare;"Cost: 2W
+Vryn Wingmare;"
+Cost: 2W
+Rarity: rare
+Type: Creature - Pegasus
 Flying 
 
-Noncreature spells cost 1 more to cast.Stats: 2/1"
-Yoked Ox;"Cost: WStats: 0/4"
-Aegis Angel;"Cost: 4WW
+Noncreature spells cost 1 more to cast.
+Stats: 2/1"
+Yoked Ox;"
+Cost: W
+Rarity: common
+Type: Creature - Ox
+Stats: 0/4"
+Aegis Angel;"
+Cost: 4WW
+Rarity: rare
+Type: Creature - Angel
 Flying 
 
-When Aegis Angel enters the battlefield, another target permanent gains indestructible for as long as you control Aegis Angel.Stats: 5/5"
-Divine Verdict;"Cost: 3W
+When Aegis Angel enters the battlefield, another target permanent gains indestructible for as long as you control Aegis Angel.
+Stats: 5/5"
+Divine Verdict;"
+Cost: 3W
+Rarity: common
+Type: Instant
 Destroy target attacking or blocking creature."
-Eagle of the Watch;"Cost: 2W
-Flying, vigilanceStats: 2/1"
-Serra Angel;"Cost: 3WW
+Eagle of the Watch;"
+Cost: 2W
+Rarity: common
+Type: Creature - Bird
+Flying, vigilance
+Stats: 2/1"
+Serra Angel;"
+Cost: 3WW
+Rarity: uncommon
+Type: Creature - Angel
 Flying 
-VigilanceStats: 4/4"
-Sigiled Starfish;"Cost: 1U
-t: Scry 1.Stats: 0/3"
-Sigiled Starfish;"Cost: 1U
-t: Scry 1.Stats: 0/3"
-Alhammarret, High Arbiter;"Cost: 5UU
+Vigilance
+Stats: 4/4"
+Sigiled Starfish;"
+Cost: 1U
+Rarity: uncommon
+Type: Creature - Starfish
+t: Scry 1.
+Stats: 0/3"
+Sigiled Starfish;"
+Cost: 1U
+Rarity: uncommon
+Type: Creature - Starfish
+t: Scry 1.
+Stats: 0/3"
+Alhammarret, High Arbiter;"
+Cost: 5UU
+Rarity: rare
+Type: Legendary Creature - Sphinx
 Flying 
 As Alhammarret, High Arbiter enters the battlefield, each opponent reveals his or her hand. You choose the name of a nonland card revealed this way. 
-Your opponent can't cast spells with the chosen name (as long as this creature is on the battlefield).Stats: 5/5"
-Anchor to the Æther;"Cost: 2U
+Your opponent can't cast spells with the chosen name (as long as this creature is on the battlefield).
+Stats: 5/5"
+Anchor to the Æther;"
+Cost: 2U
+Rarity: uncommon
+Type: Sorcery
 Put target creature on top of its owner's library.  Scry 1."
-Anchor to the Æther;"Cost: 2U
+Anchor to the Æther;"
+Cost: 2U
+Rarity: uncommon
+Type: Sorcery
 Put target creature on top of its owner's library.  Scry 1."
-Artificer's Epiphany;"Cost: 2U
+Artificer's Epiphany;"
+Cost: 2U
+Rarity: common
+Type: Instant
 Draw two cards. If you control no artifacts, discard a card."
-Aspiring Aeronaut;"Cost: 3U
+Aspiring Aeronaut;"
+Cost: 3U
+Rarity: common
+Type: Creature - Human Artificer
 Flying 
-When Aspiring Aeronaut enters the battlefield, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield.Stats: 1/2"
-Bone to Ash;"Cost: 2UU
+When Aspiring Aeronaut enters the battlefield, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield.
+Stats: 1/2"
+Bone to Ash;"
+Cost: 2UU
+Rarity: common
+Type: Instant
 Counter target creature spell. 
 
 Draw a card."
-Bone to Ash;"Cost: 2UU
+Bone to Ash;"
+Cost: 2UU
+Rarity: common
+Type: Instant
 Counter target creature spell. 
 
 Draw a card."
-Calculated Dismissal;"Cost: 2U
+Calculated Dismissal;"
+Cost: 2U
+Rarity: common
+Type: Instant
 Counter target spell unless its controller pays 3. 
 
 Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, scry 2."
-Calculated Dismissal;"Cost: 2U
+Calculated Dismissal;"
+Cost: 2U
+Rarity: common
+Type: Instant
 Counter target spell unless its controller pays 3. 
 
 Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, scry 2."
-Clash of Wills;"Cost: XU
+Clash of Wills;"
+Cost: XU
+Rarity: uncommon
+Type: Instant
 Counter target spell unless its controller pays X."
-Claustrophobia;"Cost: 1UU
+Claustrophobia;"
+Cost: 1UU
+Rarity: common
+Type: Enchantment - Aura
 
 Enchant creature 
 
 When Claustrophobia enters the battlefield, tap enchanted creature. 
 
 Enchanted creature doesn't untap during its controller's untap step."
-Day's Undoing;"Cost: 2U
-Each player shuffles his or her hand and graveyard into his or her library, then draws 7 cards.  If it's your turn, end the turn. (Exile all spells and abilities on the stack, including this card. Discard down to your maximum hand size. Damage wears off, and "this turn" and "until end of turn" effects end.)"
-Disciple of the Ring;"Cost: 3UU
+Day's Undoing;"
+Cost: 2U
+Rarity: rare
+Type: Sorcery
+Each player shuffles his or her hand and graveyard into his or her library, then draws 7 cards.  If it's your turn, end the turn. (Exile all spells and abilities on the stack, including this card. Discard down to your maximum hand size. Damage wears off, and `this turn` and `until end of turn` effects end.)"
+Disciple of the Ring;"
+Cost: 3UU
+Rarity: rare
+Type: Creature - Human Wizard
 1, Exile an instant or sorcery card from your graveyard: Choose one — 
 - Counter target noncreature spell unless its controller pays 2. 
 - Disciple of the Ring gets +1/+1 until end of turn. 
 - Tap target creature. 
-- Untap target creature.Stats: 3/4"
-Disperse;"Cost: 1U
+- Untap target creature.
+Stats: 3/4"
+Disperse;"
+Cost: 1U
+Rarity: common
+Type: Instant
 Return target nonland permanent to its owner's hand."
-Displacement Wave;"Cost: XUU
+Displacement Wave;"
+Cost: XUU
+Rarity: rare
+Type: Sorcery
 Return all nonland permanents with converted mana cost X or less to their owners' hands."
-Faerie Miscreant;"Cost: U
+Faerie Miscreant;"
+Cost: U
+Rarity: common
+Type: Creature - Faerie Rogue
 Flying (This creature can't be blocked except by creatures with flying or reach.) 
-When Faerie Miscreant enters the battlefield, if you control another creature named Faerie Miscreant, draw a card.Stats: 1/1"
-Harbinger of the Tides;"Cost: UU
+When Faerie Miscreant enters the battlefield, if you control another creature named Faerie Miscreant, draw a card.
+Stats: 1/1"
+Harbinger of the Tides;"
+Cost: UU
+Rarity: rare
+Type: Creature - Merfolk Wizard
 You may cast Harbinger of the Tides as though it had flash if you pay 2 more to cast it. 
 
-When Harbinger of the Tides enters the battlefield, you may return target tapped creature an opponent controls to its owner's hand.Stats: 2/2"
-Hydrolash;"Cost: 2U
+When Harbinger of the Tides enters the battlefield, you may return target tapped creature an opponent controls to its owner's hand.
+Stats: 2/2"
+Hydrolash;"
+Cost: 2U
+Rarity: uncommon
+Type: Instant
 Attacking creatures get -2/-0 until end of turn. 
 Draw a card."
-Jace, Telepath Unbound;"Cost: 
+Jace, Telepath Unbound;"
+Cost: 
+Rarity: rare
+Type: Planeswalker - Jace
 +1: Up to one target creature gets -2/-0 until your next turn. 
 -3: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead. 
--9: You get an emblem with "Whenever you cast a spell, target opponent puts the top five cards of his or her library into his or her graveyard". Stats: 5"
-Jace, Vryn's Prodigy;"Cost: 1U
-T: Draw a card, then discard a card. If there are five or more cards in your graveyard, exile Jace, Vryn''s Prodigy, then return him to the battefield transformed under his owner's control. Stats: 0/2"
-Jace's Sanctum;"Cost: 3U
+-9: You get an emblem with `Whenever you cast a spell, target opponent puts the top five cards of his or her library into his or her graveyard`. 
+Stats: 5"
+Jace, Vryn's Prodigy;"
+Cost: 1U
+Rarity: rare
+Type: Legendary Creature - Human Wizard
+T: Draw a card, then discard a card. If there are five or more cards in your graveyard, exile Jace, Vryn''s Prodigy, then return him to the battefield transformed under his owner's control. 
+Stats: 0/2"
+Jace's Sanctum;"
+Cost: 3U
+Rarity: rare
+Type: Enchantment
 Instant and sorcery spells you cast coast 1 less to cast. 
 
 Whenever you cast an instant or a sorcery spell, scry 1."
-Jhessian Thief;"Cost: 2U
+Jhessian Thief;"
+Cost: 2U
+Rarity: uncommon
+Type: Creature - Human Rogue
 Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.) 
-Whenever Jhessian Thief deals combat damage to a player, draw a card.Stats: 1/3"
-Maritime Guard;"Cost: 1UStats: 1/3"
-Mizzium Meddler;"Cost: 2U
+Whenever Jhessian Thief deals combat damage to a player, draw a card.
+Stats: 1/3"
+Maritime Guard;"
+Cost: 1U
+Rarity: common
+Type: Creature - Merfolk Soldier
+Stats: 1/3"
+Mizzium Meddler;"
+Cost: 2U
+Rarity: rare
+Type: Creature - Vedalken Wizard
 Flash 
 
-When Mizzium Meddler enters the battlefield, you may change a target of target spell or ability to Mizzium Meddler.Stats: 1/4"
-Negate;"Cost: 1U
+When Mizzium Meddler enters the battlefield, you may change a target of target spell or ability to Mizzium Meddler.
+Stats: 1/4"
+Negate;"
+Cost: 1U
+Rarity: common
+Type: Instant
 Counter target noncreature spell."
-Ringwarden Owl;"Cost: 3UU
+Ringwarden Owl;"
+Cost: 3UU
+Rarity: common
+Type: Creature - Bird
 Flying (This creature can't be blocked except by creatures with flying or reach.) 
-Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)Stats: 3/3"
-Scrapskin Drake;"Cost: 2U
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Stats: 3/3"
+Scrapskin Drake;"
+Cost: 2U
+Rarity: common
+Type: Creature - Zombie Drake
 Flying 
 
-Scrapskin Drake can block only creatures with flying.Stats: 2/3"
-Screeching Skaab;"Cost: 1U
-When Screeching Skaab enters the battlefield, put the top two cards of your library into your graveyard.Stats: 2/1"
-Screeching Skaab;"Cost: 1U
-When Screeching Skaab enters the battlefield, put the top two cards of your library into your graveyard.Stats: 2/1"
-Send to Sleep;"Cost: 1U
+Scrapskin Drake can block only creatures with flying.
+Stats: 2/3"
+Screeching Skaab;"
+Cost: 1U
+Rarity: common
+Type: Creature - Zombie
+When Screeching Skaab enters the battlefield, put the top two cards of your library into your graveyard.
+Stats: 2/1"
+Screeching Skaab;"
+Cost: 1U
+Rarity: common
+Type: Creature - Zombie
+When Screeching Skaab enters the battlefield, put the top two cards of your library into your graveyard.
+Stats: 2/1"
+Send to Sleep;"
+Cost: 1U
+Rarity: common
+Type: Instant
 Tap up to two target creatures. 
 Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, those creatures don't untap during their controllers' next untap steps."
-Separatist Voidmage;"Cost: 3U
-When Separatist Voidmage enters the battlefield, you may return target creature to its owner's hand.Stats: 2/2"
-Soulblade Djinn;"Cost: 3UU
+Separatist Voidmage;"
+Cost: 3U
+Rarity: common
+Type: Creature - Human Wizard
+When Separatist Voidmage enters the battlefield, you may return target creature to its owner's hand.
+Stats: 2/2"
+Soulblade Djinn;"
+Cost: 3UU
+Rarity: rare
+Type: Creature - Djinn
 Flying 
 
-Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.Stats: 4/3"
-Sphinx's Tutelage;"Cost: 2U
+Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.
+Stats: 4/3"
+Sphinx's Tutelage;"
+Cost: 2U
+Rarity: uncommon
+Type: Enchantment
 Whenever you draw a card, target opponent puts the top two cards of his or her library into his or her graveyard. If they're both nonland cards that share a color, repeat this process. 
 5U: Draw a card, then discard a card."
-Talent of the Telepath;"Cost: 2UU
+Talent of the Telepath;"
+Cost: 2UU
+Rarity: rare
+Type: Sorcery
 Target opponent reveals the top seven cards of his or her library. You may cast an instant or sorcery card from among them without paying its mana cost. Then that player puts the rest into his or her graveyard. 
 Spell mastery --- If there are two or more instant and/or sorcery cards in your graveyard, you may cast up to two revealed instant and/or sorcery cards instead of one."
-Thopter Spy Network;"Cost: 2UU
+Thopter Spy Network;"
+Cost: 2UU
+Rarity: rare
+Type: Enchantment
 At the beginning of your upkeep, if you control an artifact, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield. 
 Whenever one or more artifact creatures you control deals combat damage to a player, draw a card."
-Tower Geist;"Cost: 3U
+Tower Geist;"
+Cost: 3U
+Rarity: uncommon
+Type: Creature - Spirit
 Flying 
 
-When Tower Geist enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.Stats: 2/2"
-Whirler Rogue;"Cost: 2UU
+When Tower Geist enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.
+Stats: 2/2"
+Whirler Rogue;"
+Cost: 2UU
+Rarity: uncommon
+Type: Creature - Human Rogue Artificer
 When Whirler Rogue enters the battlefield, put two 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield. 
-Tap two untapped artifacts you control: Target creature can't be blocked this turn.Stats: 2/2"
-Willbreaker;"Cost: 3UU
-Whenever a creature an opponent controls becomes the target of a spell or ability you control, gain control of that creature for as long as you control Willbreaker.Stats: 2/3"
-Into the Void;"Cost: 3U
+Tap two untapped artifacts you control: Target creature can't be blocked this turn.
+Stats: 2/2"
+Willbreaker;"
+Cost: 3UU
+Rarity: rare
+Type: Creature - Human Wizard
+Whenever a creature an opponent controls becomes the target of a spell or ability you control, gain control of that creature for as long as you control Willbreaker.
+Stats: 2/3"
+Into the Void;"
+Cost: 3U
+Rarity: uncommon
+Type: Sorcery
 Return up to two target creatures to their owners' hands."
-Mahamoti Djinn;"Cost: 4UU
-FlyingStats: 5/6"
-Weave Fate;"Cost: 3U
+Mahamoti Djinn;"
+Cost: 4UU
+Rarity: rare
+Type: Creature - Djinn
+Flying
+Stats: 5/6"
+Weave Fate;"
+Cost: 3U
+Rarity: common
+Type: Instant
 Draw two cards."
-Blightcaster;"Cost: 3B
-Whenever you cast an enchantment spell, you may have target creature get -2/-2 until end of turn.Stats: 2/3"
-Blightcaster;"Cost: 3B
-Whenever you cast an enchantment spell, you may have target creature get -2/-2 until end of turn.Stats: 2/3"
-Catacomb Slug;"Cost: 4BStats: 2/6"
-Cruel Revival;"Cost: 4B
+Blightcaster;"
+Cost: 3B
+Rarity: uncommon
+Type: Creature - Human Wizard
+Whenever you cast an enchantment spell, you may have target creature get -2/-2 until end of turn.
+Stats: 2/3"
+Blightcaster;"
+Cost: 3B
+Rarity: uncommon
+Type: Creature - Human Wizard
+Whenever you cast an enchantment spell, you may have target creature get -2/-2 until end of turn.
+Stats: 2/3"
+Catacomb Slug;"
+Cost: 4B
+Rarity: common
+Type: Creature - Slug
+Stats: 2/6"
+Cruel Revival;"
+Cost: 4B
+Rarity: uncommon
+Type: Instant
 Destroy target non-Zombie creature. It can't be regenerated. Return up to one target Zombie card from your graveyard to your hand."
-Dark Petition;"Cost: 3BB
+Dark Petition;"
+Cost: 3BB
+Rarity: rare
+Type: Sorcery
 Search your library for a card and put that card into your hand. Then shuffle your library. 
 Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, add BBB to your mana pool."
-Deadbridge Shaman;"Cost: 2B
-When Deadbridge Shaman dies, target opponent discards a card.Stats: 3/1"
-Demonic Pact;"Cost: 2BB
+Deadbridge Shaman;"
+Cost: 2B
+Rarity: common
+Type: Creature - Elf Shaman
+When Deadbridge Shaman dies, target opponent discards a card.
+Stats: 3/1"
+Demonic Pact;"
+Cost: 2BB
+Rarity: rare
+Type: Enchantment
 At the beginning of your upkeep, choose one that hasn't been chosen — 
 - Demonic Pact deals 4 damage to target creature or player and you gain 4 life. 
 - Target opponent discards two cards. 
 - Draw two cards. 
 - You lose the game."
-Despoiler of Souls;"Cost: BB
+Despoiler of Souls;"
+Cost: BB
+Rarity: rare
+Type: Creature - Horror
 Despoiler of Souls can't block. 
 
-BB, Exile two other creature cards from your graveyard: Return Despoiler of Souls from your graveyard to the battlefield.Stats: 3/1"
-Erebos's Titan;"Cost: 1BBB
+BB, Exile two other creature cards from your graveyard: Return Despoiler of Souls from your graveyard to the battlefield.
+Stats: 3/1"
+Erebos's Titan;"
+Cost: 1BBB
+Rarity: rare
+Type: Creature - Giant
 As long as your opponents control no creatures, Erebos's Titan has indestructible. 
 
-Whenever a creature card leaves an opponent's graveyard, you may discard a card. If you do, return Erebos's Titan from your graveyard to your hand.Stats: 5/5"
-Eyeblight Assassin;"Cost: 2B
-When Eyeblight Assassin enters the battlefield, target creature an opponent controls gets -1/-1 until end of turn.Stats: 2/2"
-Fleshbag Marauder;"Cost: 2B
-When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.Stats: 3/1"
-Fleshbag Marauder;"Cost: 2B
-When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.Stats: 3/1"
-Gilt-Leaf Winnower;"Cost: 3BB
+Whenever a creature card leaves an opponent's graveyard, you may discard a card. If you do, return Erebos's Titan from your graveyard to your hand.
+Stats: 5/5"
+Eyeblight Assassin;"
+Cost: 2B
+Rarity: common
+Type: Creature - Elf Assassin
+When Eyeblight Assassin enters the battlefield, target creature an opponent controls gets -1/-1 until end of turn.
+Stats: 2/2"
+Fleshbag Marauder;"
+Cost: 2B
+Rarity: uncommon
+Type: Creature - Zombie Warrior
+When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.
+Stats: 3/1"
+Fleshbag Marauder;"
+Cost: 2B
+Rarity: uncommon
+Type: Creature - Zombie Warrior
+When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.
+Stats: 3/1"
+Gilt-Leaf Winnower;"
+Cost: 3BB
+Rarity: rare
+Type: Creature - Elf Warrior
 Menace (This creature can't be blocked except by two or more creatures.) 
 
-When Gilt-Leaf Winnower enters the battlefield, you may destroy target non-Elf creature whose power and toughness aren't equal.Stats: 4/3"
-Gnarlroot Trapper;"Cost: B
+When Gilt-Leaf Winnower enters the battlefield, you may destroy target non-Elf creature whose power and toughness aren't equal.
+Stats: 4/3"
+Gnarlroot Trapper;"
+Cost: B
+Rarity: uncommon
+Type: Creature - Elf Druid
 t, Pay 1 life: Add G to your mana pool. Spend this mana only to cast an Elf creature spell. 
-t: Target attacking Elf you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)Stats: 1/1"
-Graveblade Marauder;"Cost: 2B
+t: Target attacking Elf you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
+Stats: 1/1"
+Graveblade Marauder;"
+Cost: 2B
+Rarity: rare
+Type: Creature - Human Warrior
 Deathtouch 
 
-Whenever Graveblade Marauder deals combat damage to a player, that player player loses life equal to the number of creature cards in your graveyard.Stats: 1/4"
-Infernal Scarring;"Cost: 1B
+Whenever Graveblade Marauder deals combat damage to a player, that player player loses life equal to the number of creature cards in your graveyard.
+Stats: 1/4"
+Infernal Scarring;"
+Cost: 1B
+Rarity: common
+Type: Enchantment - Aura
 Enchant creature 
 
-Enchanted creature gets +2/+0 and has "When this creature dies, draw a card.""
-Infinite Obliteration;"Cost: 1BB
+Enchanted creature gets +2/+0 and has `When this creature dies, draw a card.`"
+Infinite Obliteration;"
+Cost: 1BB
+Rarity: rare
+Type: Sorcery
 Name a creature card.  Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them.  Then that player shuffles his or her library."
-Kothophed, Soul Hoarder;"Cost: 4BB
+Kothophed, Soul Hoarder;"
+Cost: 4BB
+Rarity: rare
+Type: Legendary Creature - Demon
 Flying 
 
-Whenever a permanent owned by another player is put into the graveyard from the battlefield, you draw one card and lose 1 life.Stats: 6/6"
-Languish;"Cost: 2BB
+Whenever a permanent owned by another player is put into the graveyard from the battlefield, you draw one card and lose 1 life.
+Stats: 6/6"
+Languish;"
+Cost: 2BB
+Rarity: rare
+Type: Sorcery
 All creatures get -4/-4 until end of turn."
-Liliana, Defiant Necromancer;"Cost: 
+Liliana, Defiant Necromancer;"
+Cost: 
+Rarity: rare
+Type: Planeswalker - Liliana
 +2: Each player discards a card. 
 
 -X: Return target nonlegendary creature with converted mana cost X from your graveyard to the battlefield. 
 
--8: You get an emblem with "Whenever a creature you control dies, return it to the battlefield under your control at the beginning of the next end step."Stats: 3"
-Liliana, Heretical Healer;"Cost: 1BB
+-8: You get an emblem with `Whenever a creature you control dies, return it to the battlefield under your control at the beginning of the next end step.`
+Stats: 3"
+Liliana, Heretical Healer;"
+Cost: 1BB
+Rarity: rare
+Type: Legendary Creature - Human Cleric
 Lifelink 
-Whenever another nontoken creature you control dies, exile Liliana Heretical Healer, then return her to the battlefield transformed under her owner's control. If you do, put a 2/2 black Zombie creature token onto the battlefield.Stats: 2/3"
-Malakir Cullblade;"Cost: 1B
-Whenever a creature an opponent controls dies, put a +1/+1 counter on Malakir Cullblade.Stats: 1/1"
-Nantuko Husk;"Cost: 2B
-Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.Stats: 2/2"
-Necromantic Summons;"Cost: 4B
+Whenever another nontoken creature you control dies, exile Liliana Heretical Healer, then return her to the battlefield transformed under her owner's control. If you do, put a 2/2 black Zombie creature token onto the battlefield.
+Stats: 2/3"
+Malakir Cullblade;"
+Cost: 1B
+Rarity: uncommon
+Type: Creature - Vampire Warrior
+Whenever a creature an opponent controls dies, put a +1/+1 counter on Malakir Cullblade.
+Stats: 1/1"
+Nantuko Husk;"
+Cost: 2B
+Rarity: common
+Type: Creature - Zombie Insect
+Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.
+Stats: 2/2"
+Necromantic Summons;"
+Cost: 4B
+Rarity: uncommon
+Type: Sorcery
 Put target creature card from a graveyard onto the battlefield under your control. 
 
 Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, that creature enters the battlefield with two additional +1/+1 counters on it."
-Priest of the Blood Rite;"Cost: 3BB
+Priest of the Blood Rite;"
+Cost: 3BB
+Rarity: rare
+Type: Creature - Human Cleric
 When Priest of the Blood Rite enters the battlefield, put a 5/5 black Demon creature token with flying onto the battlefield. 
-At the beginning of your upkeep, you lose 2 life.Stats: 2/2"
-Rabid Bloodsucker;"Cost: 4B
+At the beginning of your upkeep, you lose 2 life.
+Stats: 2/2"
+Rabid Bloodsucker;"
+Cost: 4B
+Rarity: common
+Type: Creature - Vampire
 Flying 
-When Rabid Bloodsucker enters the battlefield, each player loses 2 life.Stats: 3/2"
-Reave Soul;"Cost: 1B
+When Rabid Bloodsucker enters the battlefield, each player loses 2 life.
+Stats: 3/2"
+Reave Soul;"
+Cost: 1B
+Rarity: common
+Type: Sorcery
 Destroy target creature with power 3 or less."
-Shambling Ghoul;"Cost: 1B
-Shambling Ghoul enters the battlefield tapped.Stats: 2/3"
-Tainted Remedy;"Cost: 2B
+Shambling Ghoul;"
+Cost: 1B
+Rarity: common
+Type: Creature - Zombie
+Shambling Ghoul enters the battlefield tapped.
+Stats: 2/3"
+Tainted Remedy;"
+Cost: 2B
+Rarity: rare
+Type: Enchantment
 If an opponent would gain life, that player loses that much life instead."
-Undead Servant;"Cost: 3B
-When Undead Servant enters the battlefield, put a 2/2 black Zombie creature token onto the battlefield for each card named Undead Servant in your graveyard.Stats: 3/2"
-Unholy Hunger;"Cost: 3BB
+Undead Servant;"
+Cost: 3B
+Rarity: common
+Type: Creature - Zombie
+When Undead Servant enters the battlefield, put a 2/2 black Zombie creature token onto the battlefield for each card named Undead Servant in your graveyard.
+Stats: 3/2"
+Unholy Hunger;"
+Cost: 3BB
+Rarity: common
+Type: Instant
 Destroy target creature. 
 
 Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, you gain 2 life."
-Weight of the Underworld;"Cost: 3B
+Weight of the Underworld;"
+Cost: 3B
+Rarity: common
+Type: Enchantment - Aura
 Enchant creature 
 
 Enchanted creature gets -3/-2."
-Flesh to Dust;"Cost: 3BB
+Flesh to Dust;"
+Cost: 3BB
+Rarity: common
+Type: Instant
 Destroy target creature. It can't be regenerated."
-Mind Rot;"Cost: 2B
+Mind Rot;"
+Cost: 2B
+Rarity: common
+Type: Sorcery
 Target player discards two cards."
-Nightmare;"Cost: 5B
+Nightmare;"
+Cost: 5B
+Rarity: rare
+Type: Creature - Nightmare Horse
 Flying 
 
-Nightmare's power and toughness are each equal to the number of Swamps you control.Stats: */*"
-Sengir Vampire;"Cost: 3BB
+Nightmare's power and toughness are each equal to the number of Swamps you control.
+Stats: */*"
+Sengir Vampire;"
+Cost: 3BB
+Rarity: uncommon
+Type: Creature - Vampire
 Flying 
 
-Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.Stats: 4/4"
-Abbot of Keral Keep;"Cost: 1R
+Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.
+Stats: 4/4"
+Abbot of Keral Keep;"
+Cost: 1R
+Rarity: rare
+Type: Creature - Human Monk
 Prowess 
-When Abbot of Keral Keep enters the battlefield, exile the top card of your library. Until end of turn, you may play that card.Stats: 2/1"
-Act of Treason;"Cost: 2R
+When Abbot of Keral Keep enters the battlefield, exile the top card of your library. Until end of turn, you may play that card.
+Stats: 2/1"
+Act of Treason;"
+Cost: 2R
+Rarity: common
+Type: Sorcery
 Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn."
-Akroan Sergeant;"Cost: 2R
+Akroan Sergeant;"
+Cost: 2R
+Rarity: uncommon
+Type: Creature - Human Soldier
 First strike 
-Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)Stats: ?/?"
-Akroan Sergeant;"Cost: 2R
+Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+Stats: ?/?"
+Akroan Sergeant;"
+Cost: 2R
+Rarity: uncommon
+Type: Creature - Human Soldier
 First strike 
-Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)Stats: ?/?"
-Avaricious Dragon;"Cost: 2RR
+Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+Stats: ?/?"
+Avaricious Dragon;"
+Cost: 2RR
+Rarity: rare
+Type: Creature - Dragon
 Flying 
 At the beginning of your draw step, draw an additional card. 
-At the beginning of your end step, discard your hand.Stats: 4/4"
-Bellows Lizard;"Cost: R
-1R: Bellows Lizard gets +1/+0 until end of turn.Stats: 1/1"
-Boggart Brute;"Cost: 2R
-Menace (This creature can't be blocked except by two or more creatures.)Stats: 3/2"
-Call of the Full Moon;"Cost: 1R
+At the beginning of your end step, discard your hand.
+Stats: 4/4"
+Bellows Lizard;"
+Cost: R
+Rarity: common
+Type: Creature - Lizard
+1R: Bellows Lizard gets +1/+0 until end of turn.
+Stats: 1/1"
+Boggart Brute;"
+Cost: 2R
+Rarity: common
+Type: Creature - Goblin Warrior
+Menace (This creature can't be blocked except by two or more creatures.)
+Stats: 3/2"
+Call of the Full Moon;"
+Cost: 1R
+Rarity: uncommon
+Type: Enchantment - Aura
 Enchant creature 
 Enchanted creature gets +3/+2 and has trample. 
 At the beginning of each upkeep, if a player cast two or more spells last turn, sacrifice Call of the Full Moon."
-Call of the Full Moon;"Cost: 1R
+Call of the Full Moon;"
+Cost: 1R
+Rarity: uncommon
+Type: Enchantment - Aura
 Enchant creature 
 Enchanted creature gets +3/+2 and has trample. 
 At the beginning of each upkeep, if a player cast two or more spells last turn, sacrifice Call of the Full Moon."
-Chandra, Fire of Kaladesh;"Cost: 1RR
+Chandra, Fire of Kaladesh;"
+Cost: 1RR
+Rarity: rare
+Type: Legendary Creature - Human Shaman
 Whenever you cast a red spell, untap Chandra, Fire of Kaladesh. 
 
-T: Chandra, Fire of Kaladesh deals 1 damage to target player.  If Chandra has dealt 3 or more damage this turn, exile her, then return her to the battlefield transformed under her owner's control.Stats: 2/2"
-Chandra, Roaring Flame;"Cost: 
+T: Chandra, Fire of Kaladesh deals 1 damage to target player.  If Chandra has dealt 3 or more damage this turn, exile her, then return her to the battlefield transformed under her owner's control.
+Stats: 2/2"
+Chandra, Roaring Flame;"
+Cost: 
+Rarity: rare
+Type: Planeswalker - Chandra
 +1: Chandra, Roaring Flame deals 2 damage to target player. 
 
 -2: Chandra, Roaring Flame deals 2 damage to target creature. 
 
--7: Chandra, Roaring Flame deals 6 damage to each opponent.  Each player dealt damage this way gets an emblem with "At the beginning of your upkeep, this emblem deals 3 damage to you."Stats: 4"
-Chandra's Fury;"Cost: 4R
+-7: Chandra, Roaring Flame deals 6 damage to each opponent.  Each player dealt damage this way gets an emblem with `At the beginning of your upkeep, this emblem deals 3 damage to you.`
+Stats: 4"
+Chandra's Fury;"
+Cost: 4R
+Rarity: common
+Type: Instant
 Chandra's Fury deals 4 damage to target player and 1 damage to each creature that player controls."
-Chandra's Ignition;"Cost: 3RR
+Chandra's Ignition;"
+Cost: 3RR
+Rarity: rare
+Type: Sorcery
 Target creature you control deals damage equal to its power to each other creature and each opponent."
-Cobblebrute;"Cost: 3RStats: 5/2"
-Embermaw Hellion;"Cost: 3RR
+Cobblebrute;"
+Cost: 3R
+Rarity: common
+Type: Creature - Elemental
+Stats: 5/2"
+Embermaw Hellion;"
+Cost: 3RR
+Rarity: rare
+Type: Creature - Hellion
 Trample 
-If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.Stats: 4/5"
-Enthralling Victor;"Cost: 3R
-When Enthralling Victor enters the battlefield, gain control of target creature an opponent controls with power 2 or less until end of turn. Untap that creature. It gains haste until end of turn.Stats: 3/2"
-Exquisite Firecraft;"Cost: 1RR
+If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.
+Stats: 4/5"
+Enthralling Victor;"
+Cost: 3R
+Rarity: uncommon
+Type: Creature - Human Warrior
+When Enthralling Victor enters the battlefield, gain control of target creature an opponent controls with power 2 or less until end of turn. Untap that creature. It gains haste until end of turn.
+Stats: 3/2"
+Exquisite Firecraft;"
+Cost: 1RR
+Rarity: rare
+Type: Sorcery
 Exquisite Firecraft deals 4 damage to target creature or player. 
 
 Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, Exquisite Firecraft can't be countered by spells or abilities."
-Fiery Conclusion;"Cost: 1R
+Fiery Conclusion;"
+Cost: 1R
+Rarity: uncommon
+Type: Instant
 As an additional cost to cast Fiery Conclusion, sacrifice a creature. 
 
 Fiery Conclusion deals 5 damage to target creature."
-Fiery Impulse;"Cost: R
+Fiery Impulse;"
+Cost: R
+Rarity: common
+Type: Instant
 Fiery Impulse deals 2 damage to target creature. 
 
 Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, Fiery Impulse deals 3 damage to that creature instead."
-Flameshadow Conjuring;"Cost: 3R
+Flameshadow Conjuring;"
+Cost: 3R
+Rarity: rare
+Type: Enchantment
 Whenever a nontoken creature enters the battlefield under your control, you may pay R. If you do, put a token onto the battlefield that's a copy of that creature. That token gains haste. Exile it at the beginning of the next end step."
-Ghirapur Gearcrafter;"Cost: 2R
-When Ghirapur Gearcrafter enters the battlefield, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield.Stats: 2/1"
-Goblin Glory Chaser;"Cost: R
+Ghirapur Gearcrafter;"
+Cost: 2R
+Rarity: common
+Type: Creature - Human Artificer
+When Ghirapur Gearcrafter enters the battlefield, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield.
+Stats: 2/1"
+Goblin Glory Chaser;"
+Cost: R
+Rarity: uncommon
+Type: Creature - Goblin Warrior
 Renown 1 (When this creature deals combat damage to an opponent, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.) 
 
-As long as Goblin Glory Chaser is renowned, it has menace. (It can't be blocked except by two or more creatures.)Stats: 1/1"
-Goblin Piledriver;"Cost: 1R
+As long as Goblin Glory Chaser is renowned, it has menace. (It can't be blocked except by two or more creatures.)
+Stats: 1/1"
+Goblin Piledriver;"
+Cost: 1R
+Rarity: rare
+Type: Creature - Goblin Warror
 Protection from blue (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue.) 
 
-Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking goblin.Stats: 1/2"
-Infectious Bloodlust;"Cost: 1R
+Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking goblin.
+Stats: 1/2"
+Infectious Bloodlust;"
+Cost: 1R
+Rarity: common
+Type: Enchantment - Aura
 Enchant creature 
 Enchanted creature gets +2/+1, has haste, and attacks each turn if able. 
 When enchanted creature dies, you may search your library for a card named Infectious Bloodlust, reveal it, put it into your hand, then shuffle your library."
-Lightning Javelin;"Cost: 3R
+Lightning Javelin;"
+Cost: 3R
+Rarity: common
+Type: Sorcery
 Lightning Javelin deals 3 damage to target creature or player. Scry 1."
-Magmatic Insight;"Cost: R
+Magmatic Insight;"
+Cost: R
+Rarity: uncommon
+Type: Sorcery
 As an additional cost to cast Magmatic Insight, discard a land card. 
 
 Draw two cards."
-Molten Vortex;"Cost: R
+Molten Vortex;"
+Cost: R
+Rarity: rare
+Type: Enchantment
 R, Discard a land card: Molten Vortex deals 2 damage to target creature or player."
-Pia and Kiran Nalaar;"Cost: 2RR
+Pia and Kiran Nalaar;"
+Cost: 2RR
+Rarity: rare
+Type: Legendary Creature - Human Artificer
 When Pia and Kiran Nalaar enters the battlefield put 2 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield. 
 
-2R, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 damage to target creature or player.Stats: 2/2"
-Ravaging Blaze;"Cost: XRR
+2R, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 damage to target creature or player.
+Stats: 2/2"
+Ravaging Blaze;"
+Cost: XRR
+Rarity: uncommon
+Type: Instant
 Ravaging Blaze deals X damage to target creature. 
 Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, Ravaging Blaze also deals X damage to that creature's controller."
-Scab-Clan Berserker;"Cost: 1RR
+Scab-Clan Berserker;"
+Cost: 1RR
+Rarity: rare
+Type: Creature - Human Berserker
 Haste 
 
 Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.) 
 
-Whenever an opponent casts a noncreature spell, if Scab-Clan Berserker is renowned, Scab-Clan Berserker deals 2 damage to that player.Stats: 2/2"
-Seismic Elemental;"Cost: 3RR
-When Seismic Elemental enters the battlefield, creatures without flying can't block this turn.Stats: 4/4"
-Smash to Smithereens;"Cost: 1R
+Whenever an opponent casts a noncreature spell, if Scab-Clan Berserker is renowned, Scab-Clan Berserker deals 2 damage to that player.
+Stats: 2/2"
+Seismic Elemental;"
+Cost: 3RR
+Rarity: uncommon
+Type: Creature - Elemental
+When Seismic Elemental enters the battlefield, creatures without flying can't block this turn.
+Stats: 4/4"
+Smash to Smithereens;"
+Cost: 1R
+Rarity: common
+Type: Instant
 Destroy target artifact. Smash to Smithereens deals 3 damage to that artifact's controller."
-Subterranean Scout;"Cost: 1R
-When Subterranean Scout enters the battlefield, target creature with power 2 or less can't be blocked this turn.Stats: 2/1"
-Titan's Strength;"Cost: R
+Subterranean Scout;"
+Cost: 1R
+Rarity: common
+Type: Creature - Goblin Scout
+When Subterranean Scout enters the battlefield, target creature with power 2 or less can't be blocked this turn.
+Stats: 2/1"
+Titan's Strength;"
+Cost: R
+Rarity: common
+Type: Instant
 Target creature gets +3/+1 until end of turn. Scry 1."
-Volcanic Rambler;"Cost: 5R
-2R: Volcanic Rambler deals 1 damage to target player.Stats: 6/4"
-Fiery Hellhound;"Cost: 1RR
-R: Fiery Hellhound gets +1/+0 until end of turn.Stats: 2/2"
-Shivan Dragon;"Cost: 4RR
+Volcanic Rambler;"
+Cost: 5R
+Rarity: common
+Type: Creature - Elemental
+2R: Volcanic Rambler deals 1 damage to target player.
+Stats: 6/4"
+Fiery Hellhound;"
+Cost: 1RR
+Rarity: common
+Type: Creature - Elemental Hound
+R: Fiery Hellhound gets +1/+0 until end of turn.
+Stats: 2/2"
+Shivan Dragon;"
+Cost: 4RR
+Rarity: rare
+Type: Creature - Dragon
 Flying 
 
-R: Shivan Dragon gets +1/+0 until end of turn.Stats: 5/5"
-Animist's Awakening;"Cost: XG
+R: Shivan Dragon gets +1/+0 until end of turn.
+Stats: 5/5"
+Animist's Awakening;"
+Cost: XG
+Rarity: rare
+Type: Sorcery
 Reveal the top X cards of your library. Put all land cards from among them onto the battlefield tapped and the rest on the bottom of your library in any order. 
 Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, untap those lands."
-Conclave Naturalists;"Cost: 4G
-When Conclave Naturalists enters the battlefield, you may destroy target artifact or enchantment.Stats: 4/4"
-Dwynen, Gilt-Leaf Daen;"Cost: 2GG
+Conclave Naturalists;"
+Cost: 4G
+Rarity: uncommon
+Type: Creature - Dryad
+When Conclave Naturalists enters the battlefield, you may destroy target artifact or enchantment.
+Stats: 4/4"
+Dwynen, Gilt-Leaf Daen;"
+Cost: 2GG
+Rarity: rare
+Type: Legendary Creature - Elf Warrior
 Reach 
 Other Elf creatures you control get +1/+1. 
-Whenever Dwynen, Gilt-Leaf Daen attacks, you gain 1 life for each attacking Elf you control.Stats: 3/4"
-Dwynen's Elite;"Cost: 1G
-When Dwynen's Elite enters the battlefield, if you control another Elf, put a 1/1 green Elf Warrior creature token onto the battlefield.Stats: 2/2"
-Elemental Bond;"Cost: 2G
+Whenever Dwynen, Gilt-Leaf Daen attacks, you gain 1 life for each attacking Elf you control.
+Stats: 3/4"
+Dwynen's Elite;"
+Cost: 1G
+Rarity: uncommon
+Type: Creature - Elf Warrior
+When Dwynen's Elite enters the battlefield, if you control another Elf, put a 1/1 green Elf Warrior creature token onto the battlefield.
+Stats: 2/2"
+Elemental Bond;"
+Cost: 2G
+Rarity: uncommon
+Type: Enchantment
 Whenever a creature with power 3 or greater enters the battlefield under your control, draw a card."
-Elvish Visionary;"Cost: 1G
-When Elvish Visionary enters the battlefield, draw a card.Stats: 1/1"
-Evolutionary Leap;"Cost: 1G
+Elvish Visionary;"
+Cost: 1G
+Rarity: common
+Type: Creature - Elf Shaman
+When Elvish Visionary enters the battlefield, draw a card.
+Stats: 1/1"
+Evolutionary Leap;"
+Cost: 1G
+Rarity: rare
+Type: Enchantment
 G, Sacrifice a creature: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order."
-Gaea's Revenge;"Cost: 5GG
+Gaea's Revenge;"
+Cost: 5GG
+Rarity: rare
+Type: Creature - Elemental
 Gaea's Revenge can't be countered. 
 
 Haste 
 
-Gaea's Revenge can't be the target of nongreen spells or abilities from nongreen sources.Stats: 8/5"
-The Great Aurora;"Cost: 6GGG
+Gaea's Revenge can't be the target of nongreen spells or abilities from nongreen sources.
+Stats: 8/5"
+The Great Aurora;"
+Cost: 6GGG
+Rarity: rare
+Type: Sorcery
 Each player shuffles all cards from his or her hand and all permanents he or she owns into his or her library, then draws that many cards. Each player may put any number of land cards from his or her hand onto the battlefield. Exile The Great Aurora."
-Herald of the Pantheon;"Cost: 1G
+Herald of the Pantheon;"
+Cost: 1G
+Rarity: rare
+Type: Creature - Centaur Shaman
 Encahntment spells you cast cost 1 less to cast. 
 
-Whenever you cast an enchantment spell, you gain 1 life.Stats: 2/2"
-Hitchclaw Recluse;"Cost: 2G
-ReachStats: 1/4"
-Honored Hierarch;"Cost: G
+Whenever you cast an enchantment spell, you gain 1 life.
+Stats: 2/2"
+Hitchclaw Recluse;"
+Cost: 2G
+Rarity: common
+Type: Creature - Spider
+Reach
+Stats: 1/4"
+Honored Hierarch;"
+Cost: G
+Rarity: rare
+Type: Creature - Human Druid
 Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.) 
-As long as Honored Hierarch is renowned, it has vigilance and "t: Add one mana of any color to your mana pool."Stats: 1/1"
-Joraga Invocation;"Cost: 4GG
+As long as Honored Hierarch is renowned, it has vigilance and `t: Add one mana of any color to your mana pool.`
+Stats: 1/1"
+Joraga Invocation;"
+Cost: 4GG
+Rarity: uncommon
+Type: Sorcery
 Each creature you control gets +3/+3 until end of turn and must be blocked this turn if able."
-Leaf Gilder;"Cost: 1G
-T: Add G to your mana pool.Stats: 2/1"
-Managorger Hydra;"Cost: 2G
+Leaf Gilder;"
+Cost: 1G
+Rarity: common
+Type: Creature - Elf Druid
+T: Add G to your mana pool.
+Stats: 2/1"
+Managorger Hydra;"
+Cost: 2G
+Rarity: rare
+Type: Creature - Hydra
 Trample 
 
-Whenever a player casts a spell, put a +1/+1 counter on Managorger Hydra.Stats: 1/1"
-Mantle of Webs;"Cost: 1G
+Whenever a player casts a spell, put a +1/+1 counter on Managorger Hydra.
+Stats: 1/1"
+Mantle of Webs;"
+Cost: 1G
+Rarity: common
+Type: Enchantment - Aura
 Enchant Creature 
 Enchanted creature gets +1/+3 and has reach."
-Might of the Masses;"Cost: G
+Might of the Masses;"
+Cost: G
+Rarity: common
+Type: Instant
 Target creature gets +1/+1 until end of turn for each creature you control."
-Nissa, Sage Animist;"Cost: 
+Nissa, Sage Animist;"
+Cost: 
+Rarity: rare
+Type: Planeswalker - Nissa
 +1: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand. 
 -2: Put a legendary 4/4 green Elemental creature token named Ashaya, the Awoken World onto the battlefield. 
--7: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.Stats: 3"
-Nissa, Vastwood Seer;"Cost: 2G
+-7: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.
+Stats: 3"
+Nissa, Vastwood Seer;"
+Cost: 2G
+Rarity: rare
+Type: Legendary Creature - Elf Scout
 When Nissa, Vastwood Seer enters the battlefield, you may search your library for a basic Forest card, reveal it, put it into your hand, then shuffle your library. 
-Whenever a land enters the battlefield under your control, if you control seven or more lands, exile Nissa, then return her to the battlefield transformed under her owner's control.Stats: 2/2"
-Nissa's Pilgrimage;"Cost: 2G
+Whenever a land enters the battlefield under your control, if you control seven or more lands, exile Nissa, then return her to the battlefield transformed under her owner's control.
+Stats: 2/2"
+Nissa's Pilgrimage;"
+Cost: 2G
+Rarity: common
+Type: Sorcery
 Search your library for up to two basic Forest cards, reveal those cards, and put one onto the battlefield tapped and the rest into your hand.  Then shuffle your library. 
 
 Spell Mastery — If there are two or more instant and/or sorcery cards in your graveyard, search your library for up to three basic Forest cards instead of two."
-Nissa's Revelation;"Cost: 5GG
+Nissa's Revelation;"
+Cost: 5GG
+Rarity: rare
+Type: Sorcery
 Scry 5, then reveal the top card of your library. If it's a creature card, you draw cards equal to its power and you gain life equal to its toughness."
-Outland Colossus;"Cost: 3GG
+Outland Colossus;"
+Cost: 3GG
+Rarity: rare
+Type: Creature - Giant
 Renown 6 (When this creature deals combat damage to a player, if it isn't renowned, put six +1/+1 counters on it and it becomes renowned.) 
 
-Outland Colossus can't be blocked by more than one creature.Stats: 6/6"
-Rhox Maulers;"Cost: 4G
+Outland Colossus can't be blocked by more than one creature.
+Stats: 6/6"
+Rhox Maulers;"
+Cost: 4G
+Rarity: common
+Type: Creature - Rhino Soldier
 Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.) 
-Renown 2 (When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.)Stats: 4/4"
-Skysnare Spider;"Cost: 4GG
+Renown 2 (When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.)
+Stats: 4/4"
+Skysnare Spider;"
+Cost: 4GG
+Rarity: uncommon
+Type: Creature - Spider
 Vigilance 
 
-ReachStats: 6/6"
-Skysnare Spider;"Cost: 4GG
+Reach
+Stats: 6/6"
+Skysnare Spider;"
+Cost: 4GG
+Rarity: uncommon
+Type: Creature - Spider
 Vigilance 
 
-ReachStats: 6/6"
-Somberwald Alpha;"Cost: 3G
+Reach
+Stats: 6/6"
+Somberwald Alpha;"
+Cost: 3G
+Rarity: uncommon
+Type: Creature - Wolf
 Whenever a creature you control becomes blocked, it gets +1+1 until end of turn. 
 
-1G: Target creature you control gains trample until end of turn.Stats: 3/2"
-Somberwald Alpha;"Cost: 3G
+1G: Target creature you control gains trample until end of turn.
+Stats: 3/2"
+Somberwald Alpha;"
+Cost: 3G
+Rarity: uncommon
+Type: Creature - Wolf
 Whenever a creature you control becomes blocked, it gets +1+1 until end of turn. 
 
-1G: Target creature you control gains trample until end of turn.Stats: 3/2"
-Sylvan Messenger;"Cost: 3G
+1G: Target creature you control gains trample until end of turn.
+Stats: 3/2"
+Sylvan Messenger;"
+Cost: 3G
+Rarity: uncommon
+Type: Creature - Elf
 Trample 
 
-When Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order.Stats: 2/2"
-Timberpack Wolf;"Cost: 1G
-Timberpack Wolf gets +1/+1 for each other creature you control named Timberpack Wolf.Stats: 2/2"
-Titanic Growth;"Cost: 1G
+When Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order.
+Stats: 2/2"
+Timberpack Wolf;"
+Cost: 1G
+Rarity: common
+Type: Creature - Wolf
+Timberpack Wolf gets +1/+1 for each other creature you control named Timberpack Wolf.
+Stats: 2/2"
+Titanic Growth;"
+Cost: 1G
+Rarity: common
+Type: Instant
 Target creature gets +4/+4 until end of turn."
-Valeron Wardens;"Cost: 2G
+Valeron Wardens;"
+Cost: 2G
+Rarity: uncommon
+Type: Creature - Human Monk
 Renown 2 (When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.) 
 
-Whenever a creature you control becomes renowned, draw a card.Stats: 1/3"
-Vastwood Gorger;"Cost: 5GStats: 5/6"
-Woodland Bellower;"Cost: 4GG
-When Woodland Bellower enters the battlefield, you may search your library for a nonlegendary green creature card with converted mana cost 3 or less, put it onto the battlefield, then shuffle your library.Stats: 6/5"
-Yeva's Forcemage;"Cost: 2G
-When Yeva's Forcemage enters the battlefield, target creature gets +2/+2 until end of turn.Stats: 2/2"
-Zendikar's Roil;"Cost: 3GG
+Whenever a creature you control becomes renowned, draw a card.
+Stats: 1/3"
+Vastwood Gorger;"
+Cost: 5G
+Rarity: common
+Type: Creature - Wurm
+Stats: 5/6"
+Woodland Bellower;"
+Cost: 4GG
+Rarity: rare
+Type: Creature - Beast
+When Woodland Bellower enters the battlefield, you may search your library for a nonlegendary green creature card with converted mana cost 3 or less, put it onto the battlefield, then shuffle your library.
+Stats: 6/5"
+Yeva's Forcemage;"
+Cost: 2G
+Rarity: common
+Type: Creature - Elf Shaman
+When Yeva's Forcemage enters the battlefield, target creature gets +2/+2 until end of turn.
+Stats: 2/2"
+Zendikar's Roil;"
+Cost: 3GG
+Rarity: uncommon
+Type: Enchantment
 Whenever a land enters the battlefield under your control, put a 2/2 green Elemental creature token onto the battlefield."
-Zendikar's Roil;"Cost: 3GG
+Zendikar's Roil;"
+Cost: 3GG
+Rarity: uncommon
+Type: Enchantment
 Whenever a land enters the battlefield under your control, put a 2/2 green Elemental creature token onto the battlefield."
-Plummet;"Cost: 1G
+Plummet;"
+Cost: 1G
+Rarity: common
+Type: Instant
 Destroy target creature with flying."
-Prized Unicorn;"Cost: 3G
-All creatures able to block Prized Unicorn do so.Stats: 2/2"
-Terra Stomper;"Cost: 3GGG
+Prized Unicorn;"
+Cost: 3G
+Rarity: uncommon
+Type: Creature - Unicorn
+All creatures able to block Prized Unicorn do so.
+Stats: 2/2"
+Terra Stomper;"
+Cost: 3GGG
+Rarity: rare
+Type: Creature - Beast
 Terra Stomper can't be countered. 
 
-TrampleStats: 8/8"
-Blazing Hellhound;"Cost: 2BR
-1, Sacrifice another creature: Blazing Hellhound deals 1 damage to target creature or player.Stats: 4/3"
-Blood-Cursed Knight;"Cost: 1WB
-As long as you control an enchantment, Blood-Cursed Knight gets +1/+1 and has lifelink.Stats: 3/2"
-Blood-Cursed Knight;"Cost: 1WB
-As long as you control an enchantment, Blood-Cursed Knight gets +1/+1 and has lifelink.Stats: 3/2"
-Bounding Krasis;"Cost: 1UB
+Trample
+Stats: 8/8"
+Blazing Hellhound;"
+Cost: 2BR
+Rarity: uncommon
+Type: Creature - Elemental Hound
+1, Sacrifice another creature: Blazing Hellhound deals 1 damage to target creature or player.
+Stats: 4/3"
+Blood-Cursed Knight;"
+Cost: 1WB
+Rarity: uncommon
+Type: Creature - Vampire Knight
+As long as you control an enchantment, Blood-Cursed Knight gets +1/+1 and has lifelink.
+Stats: 3/2"
+Blood-Cursed Knight;"
+Cost: 1WB
+Rarity: uncommon
+Type: Creature - Vampire Knight
+As long as you control an enchantment, Blood-Cursed Knight gets +1/+1 and has lifelink.
+Stats: 3/2"
+Bounding Krasis;"
+Cost: 1UB
+Rarity: uncommon
+Type: Creature - Fish Lizard
 Flash (You may cast this spell any time you could cast an instant.) 
-When Bounding Krasis enters the battlefield, you may tap or untap target creature.Stats: 3/3"
-Citadel Castellan;"Cost: 1GW
+When Bounding Krasis enters the battlefield, you may tap or untap target creature.
+Stats: 3/3"
+Citadel Castellan;"
+Cost: 1GW
+Rarity: uncommon
+Type: Creature - Human Knight
 Vigilance 
 
-Renown 2 (When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.)Stats: 2/3"
-Reclusive Artificer;"Cost: 2UR
+Renown 2 (When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.)
+Stats: 2/3"
+Reclusive Artificer;"
+Cost: 2UR
+Rarity: uncommon
+Type: Creature - Human Artificer
 Haste 
-When Reclusive Artificer enters the battlefield, you may have it deal damage to target creature equal to the number of artifacts you control.Stats: 2/3"
-Shaman of the Pack;"Cost: 1BG
-When Shaman of the Pack enters the battlefield, target opponent loses life equal to the number of Elves you control.Stats: 3/2"
-Zendikar Incarnate;"Cost: 2RG
-Zendikar Incarnate's power is equal to the amount of lands you control.Stats: */4"
-Guardian Automaton;"Cost: 4
-When Guardian Automaton dies, you gain 3 life.Stats: 3/3"
-Guardian Automaton;"Cost: 4
-When Guardian Automaton dies, you gain 3 life.Stats: 3/3"
-Sigil of Valor;"Cost: 2
+When Reclusive Artificer enters the battlefield, you may have it deal damage to target creature equal to the number of artifacts you control.
+Stats: 2/3"
+Shaman of the Pack;"
+Cost: 1BG
+Rarity: uncommon
+Type: Creature - Elf Shaman
+When Shaman of the Pack enters the battlefield, target opponent loses life equal to the number of Elves you control.
+Stats: 3/2"
+Zendikar Incarnate;"
+Cost: 2RG
+Rarity: uncommon
+Type: Creature - Elemental
+Zendikar Incarnate's power is equal to the amount of lands you control.
+Stats: */4"
+Guardian Automaton;"
+Cost: 4
+Rarity: common
+Type: Artifact Creature - Construct
+When Guardian Automaton dies, you gain 3 life.
+Stats: 3/3"
+Guardian Automaton;"
+Cost: 4
+Rarity: common
+Type: Artifact Creature - Construct
+When Guardian Automaton dies, you gain 3 life.
+Stats: 3/3"
+Sigil of Valor;"
+Cost: 2
+Rarity: uncommon
+Type: Artifact - Equipment
 Whenever equipped creature attacks alone, it gets +1/+1 until end of turn for each other creature you control. 
 Equip 1"
-Sigil of Valor;"Cost: 2
+Sigil of Valor;"
+Cost: 2
+Rarity: uncommon
+Type: Artifact - Equipment
 Whenever equipped creature attacks alone, it gets +1/+1 until end of turn for each other creature you control. 
 Equip 1"
-Alhammarret's Archive;"Cost: 5
+Alhammarret's Archive;"
+Cost: 5
+Rarity: rare
+Type: Legendary Artifact
 If you would gain life, you gain twice that much life instead. 
 If you would draw a card except the first one you draw in each of your draw steps, draw two cards instead."
-Bonded Construct;"Cost: 1
-Bonded Construct can't attack alone.Stats: 2/1"
-Chief of the Foundry;"Cost: 3
-Other artifact creatures you control get +1/+1.Stats: 2/3"
-Gold-Forged Sentinel;"Cost: 6
-FlyingStats: 4/4"
-Hangarback Walker;"Cost: XX
+Bonded Construct;"
+Cost: 1
+Rarity: common
+Type: Artifact Creature - Construct
+Bonded Construct can't attack alone.
+Stats: 2/1"
+Chief of the Foundry;"
+Cost: 3
+Rarity: uncommon
+Type: Artifact Creature - Construct
+Other artifact creatures you control get +1/+1.
+Stats: 2/3"
+Gold-Forged Sentinel;"
+Cost: 6
+Rarity: uncommon
+Type: Artifact Creature - Chimera
+Flying
+Stats: 4/4"
+Hangarback Walker;"
+Cost: XX
+Rarity: rare
+Type: Artifact Creature - Construct
 Hangarback Walker enters the battlefield with X +1/+1 counters on it. 
 
 When Hangarback Walker dies, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield for each +1/+1 counter on Hangarback Walker. 
 
-1,T: Put a +1/+1 counter on Hangarback Walker.Stats: 0/0"
-Helm of the Gods;"Cost: 1
+1,T: Put a +1/+1 counter on Hangarback Walker.
+Stats: 0/0"
+Helm of the Gods;"
+Cost: 1
+Rarity: rare
+Type: Artifact - Equipment
 Equipped creature gets +1/+1 for each enchantment you control. 
 
 Equip 1"
-Jayemdae Tome;"Cost: 4
+Jayemdae Tome;"
+Cost: 4
+Rarity: uncommon
+Type: Artifact
 4, T: Draw a card."
-Mage-Ring Responder;"Cost: 7
+Mage-Ring Responder;"
+Cost: 7
+Rarity: rare
+Type: Artifact Creature - Golem
 Mage-Ring Responder doesn't untap during your untap step. 
 
 7: Untap Mage-Ring Responder. 
 
-Whenever Mage-Ring Responder attacks, it deals 7 damage to target creature defending player controls.Stats: 7/7"
-Meteorite;"Cost: 5
+Whenever Mage-Ring Responder attacks, it deals 7 damage to target creature defending player controls.
+Stats: 7/7"
+Meteorite;"
+Cost: 5
+Rarity: uncommon
+Type: Artifact
 When Meteorite enters the battlefield, it deals 2 damage to target creature or player. 
 
 T: Add one mana of any color to your mana pool."
-Pyromancer's Goggles;"Cost: 5
+Pyromancer's Goggles;"
+Cost: 5
+Rarity: rare
+Type: Legendary Artifact
 T: Add R to your mana pool. When that mana is used to cast a red instant or sorcery spell, copy that spell and you may choose new targets for the copy."
-Runed Servitor;"Cost: 2
-When Runed Servitor dies, each player draws a card.Stats: 2/2"
-Veteran's Sidearm;"Cost: 2
+Runed Servitor;"
+Cost: 2
+Rarity: uncommon
+Type: Artifact Creature - Construct
+When Runed Servitor dies, each player draws a card.
+Stats: 2/2"
+Veteran's Sidearm;"
+Cost: 2
+Rarity: common
+Type: Artifact - Equipment
 Equipped creature gets +1/+1. 
 Equip 1"
-Battlefield Forge;"Cost: 
+Battlefield Forge;"
+Cost: 
+Rarity: rare
+Type: Land
 T: Add 1 to your mana pool. 
 
 T: Add R or W to your mana pool.  Battlefield Forge deals 1 damage to you."
-Caves of Koilos;"Cost: 
+Caves of Koilos;"
+Cost: 
+Rarity: rare
+Type: Land
 T: Add 1 to your mana pool. 
 
 T: Add W or B to your mana pool.  Caves of Koilos deals 1 damage to you."
-Foundry of the Consuls;"Cost: 
+Foundry of the Consuls;"
+Cost: 
+Rarity: uncommon
+Type: Land
 T: Add 1 to your mana pool. 
 5, T, Sacrifice Foundry of the Consuls: Put two 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield."
-Llanowar Wastes;"Cost: 
+Llanowar Wastes;"
+Cost: 
+Rarity: rare
+Type: Land
 T: Add 1 to your mana pool. 
 
 T: Add B or G to your mana pool.  Llanowar Wastes deals 1 damage to you."
-Shivan Reef;"Cost: 
+Shivan Reef;"
+Cost: 
+Rarity: rare
+Type: Land
 T: Add 1 to your mana pool. 
 
 T: Add U or R to your mana pool.  Shivan Reef deals 1 damage to you."
-Yavimaya Coast;"Cost: 
+Yavimaya Coast;"
+Cost: 
+Rarity: rare
+Type: Land
 T: Add 1 to your mana pool. 
 
 T: Add G or U to your mana pool.  Yavimaya Coast deals 1 damage to you."
-Plains;"Cost: 
+Plains;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Plains
 (t: Add W to your mana pool.)"
-Plains;"Cost: 
+Plains;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Plains
 (t: Add W to your mana pool.)"
-Plains;"Cost: 
+Plains;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Plains
 (t: Add W to your mana pool.)"
-Plains;"Cost: 
+Plains;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Plains
 (t: Add W to your mana pool.)"
-Island;"Cost: 
+Island;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Island
 (t: Add U to your mana pool.)"
-Island;"Cost: 
+Island;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Island
 (t: Add U to your mana pool.)"
-Island;"Cost: 
+Island;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Island
 (t: Add U to your mana pool.)"
-Island;"Cost: 
+Island;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Island
 (t: Add U to your mana pool.)"
-Swamp;"Cost: 
+Swamp;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Swamp
 (t: Add B to your mana pool.)"
-Swamp;"Cost: 
+Swamp;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Swamp
 (t: Add B to your mana pool.)"
-Swamp;"Cost: 
+Swamp;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Swamp
 (t: Add B to your mana pool.)"
-Swamp;"Cost: 
+Swamp;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Swamp
 (t: Add B to your mana pool.)"
-Mountain;"Cost: 
+Mountain;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Mountain
 (t: Add R to your mana pool.)"
-Mountain;"Cost: 
+Mountain;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Mountain
 (t: Add R to your mana pool.)"
-Mountain;"Cost: 
+Mountain;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Mountain
 (t: Add R to your mana pool.)"
-Mountain;"Cost: 
+Mountain;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Mountain
 (t: Add R to your mana pool.)"
-Forest;"Cost: 
+Forest;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Forest
 (t: Add G to your mana pool.)"
-Forest;"Cost: 
+Forest;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Forest
 (t: Add G to your mana pool.)"
-Forest;"Cost: 
+Forest;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Forest
 (t: Add G to your mana pool.)"
-Forest;"Cost: 
+Forest;"
+Cost: 
+Rarity: basic land
+Type: Basic Land - Forest
 (t: Add G to your mana pool.)"
