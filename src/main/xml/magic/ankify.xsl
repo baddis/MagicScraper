@@ -6,32 +6,30 @@
     <!-- skip the xml header since this is a plaintext file -->
     <xsl:output method="text"/>
 
+    <!--
     <xsl:template match="name"><xsl:value-of select="."/>;"</xsl:template>
+    -->
 
-    <xsl:template match="cost">
-Cost: <xsl:value-of select="."/>
+    <xsl:template match="link">
+        <xsl:text disable-output-escaping="yes">&lt;iframe style="position:absolute;top: -398px;left:-235px;width: 498px;height: 625px" src="</xsl:text><xsl:value-of select="."/><xsl:text disable-output-escaping="yes">" scrolling="no"&gt;&lt;/iframe&gt;</xsl:text>|</xsl:template>
+
+    <xsl:template match="cost">&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Cost: <xsl:value-of select="."/>
     </xsl:template>
 
-    <xsl:template match="ability">
-        <xsl:text>&#xa;</xsl:text>
-        <xsl:value-of select="replace(.,'&quot;', '`')"/>
-    </xsl:template>
+    <xsl:template match="ability">&lt;br&gt;<xsl:value-of select="replace(.,'&quot;', '`')"/></xsl:template>
 
     <xsl:template match="//div[@class='t-spoiler-ability']/p"><ability><xsl:value-of select="replace(., '^\s+|\s+$', ' ')"/></ability></xsl:template>
 
-    <xsl:template match="stats">
-Stats: <xsl:value-of select="."/>
+    <xsl:template match="stats">&lt;br&gt;Stats: <xsl:value-of select="."/>
     </xsl:template>
 
-    <xsl:template match="rarity">
-Rarity: <xsl:value-of select="."/>
+    <xsl:template match="rarity">&lt;br&gt;Rarity: <xsl:value-of select="."/>
     </xsl:template>
 
-    <xsl:template match="type">
-Type: <xsl:value-of select="."/>
+    <xsl:template match="type">&lt;br&gt;Type: <xsl:value-of select="."/>
     </xsl:template>
 
-    <xsl:template match="cardend">"<xsl:text>&#xa;</xsl:text></xsl:template>
+    <xsl:template match="cardend"><xsl:text>&#xa;</xsl:text></xsl:template>
 
     <xsl:template match="text()"/>
 

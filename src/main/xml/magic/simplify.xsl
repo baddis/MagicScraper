@@ -41,6 +41,7 @@
         <name>
             <xsl:value-of select="a"/>
         </name>
+        <xsl:apply-templates/>
         <xsl:text>&#xa;</xsl:text>
     </xsl:template>
 
@@ -72,6 +73,13 @@
         <xsl:apply-templates/>
         <cardend/>
         <xsl:text>&#xa;</xsl:text>
+    </xsl:template>
+
+    <xsl:template match="//a[@class='j-search-html']">
+        <xsl:text>&#xa;</xsl:text>
+        <link>
+            <xsl:value-of select="@href"/>
+        </link>
     </xsl:template>
 
 
